@@ -1,0 +1,11 @@
+EmployeeID,Name,Email,HireDate,Salary,Department
+1,Alice Smith,alice@corp.com,2020-03-15,55000,Engineering
+2,Bob Jones,bob@corp.com,2019-07-01,62000,Sales
+3,Carol Tan,carol.tan@corp.com,2021-01-10,58000,Engineering
+4,Dave Lee,not-an-email,2018-11-20,60000,Sales
+5,Eve Adams,eve@corp.com,2022-05-30,57000,Marketing
+6,Frank Wu,frank@corp.com,2020-09-12,59000,Engineering
+7,Grace Kim,grace@corp.com,invalid-date,61000,Sales
+8,Henry Ford,henry@corp.com,2021-08-08,-3000,Marketing
+9,Iris Bell,iris@corp.com,2019-02-14,250000,Engineering
+10,Jack Ma,,2020-06-01,56000,

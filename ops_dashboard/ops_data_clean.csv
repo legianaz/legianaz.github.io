@@ -1,0 +1,1001 @@
+TicketID,TicketNumber,EmployeeID,CustomerID,CreatedDate,Priority,Category,Channel,ResolutionMinutes,Status,SLA,Escalated,CSAT,FirstContactResolution
+1,TKT-000001,155,3701,8/17/2025,Medium,Account Access,Email,127,Pending Customer,true,false,5,true
+2,TKT-000002,114,4275,8/19/2024,Medium,Feature Request,Web Portal,69,Open,true,true,3,false
+3,TKT-000003,1,989,7/20/2026,High,Account Access,Email,342,Resolved,false,true,2,false
+4,TKT-000004,190,3729,8/5/2024,Medium,Feature Request,Chat,189,Closed,true,false,4,false
+5,TKT-000005,56,4042,12/1/2025,Medium,General Inquiry,Email,192,Closed,true,true,4,true
+6,TKT-000006,88,4764,12/22/2025,High,Account Access,Social Media,188,Resolved,true,true,3,true
+7,TKT-000007,9,3269,9/9/2024,High,Billing,Phone,212,Resolved,false,false,3,true
+8,TKT-000008,111,3805,4/30/2024,Medium,Technical Issue,Social Media,227,Closed,false,true,3,true
+9,TKT-000009,49,946,8/23/2025,Medium,Technical Issue,Web Portal,154,Resolved,true,false,4,false
+10,TKT-000010,27,719,8/31/2024,Critical,Billing,Email,307,Open,false,false,4,true
+11,TKT-000011,129,1526,11/27/2026,High,Account Access,Email,388,Closed,false,true,2,false
+12,TKT-000012,155,3986,4/2/2024,Critical,Billing,Chat,217,Resolved,false,true,2,false
+13,TKT-000013,16,1607,12/22/2025,Medium,Account Access,Chat,170,Pending Customer,true,false,5,true
+14,TKT-000014,99,1173,3/11/2026,High,Bug Report,Chat,280,Closed,true,false,4,false
+15,TKT-000015,43,668,11/10/2025,Low,Feature Request,Email,37,In Progress,true,false,5,true
+16,TKT-000016,14,4528,2/22/2025,High,Billing,Email,151,Closed,true,false,4,false
+17,TKT-000017,53,3654,9/10/2024,High,Technical Issue,Web Portal,348,Resolved,false,true,2,false
+18,TKT-000018,185,2499,8/10/2025,High,Billing,Phone,356,Closed,false,false,3,false
+19,TKT-000019,178,2040,11/7/2024,Low,Technical Issue,Email,93,Closed,true,false,5,true
+20,TKT-000020,61,496,10/18/2024,Critical,Account Access,Email,221,Closed,true,true,3,false
+21,TKT-000021,196,3321,4/19/2026,Medium,Technical Issue,Chat,155,Closed,true,false,4,true
+22,TKT-000022,52,2491,6/19/2024,Low,General Inquiry,Email,117,Closed,true,false,4,true
+23,TKT-000023,92,369,9/19/2024,Medium,Billing,Email,104,Pending Customer,false,false,3,true
+24,TKT-000024,152,1142,9/12/2026,Critical,Feature Request,Chat,254,Resolved,false,true,3,false
+25,TKT-000025,38,3379,10/29/2025,High,Account Access,Chat,383,Resolved,false,false,3,false
+26,TKT-000026,135,207,4/1/2025,Critical,Feature Request,Phone,466,Resolved,false,true,2,false
+27,TKT-000027,200,2043,7/10/2025,Medium,Technical Issue,Email,60,Closed,true,false,4,true
+28,TKT-000028,121,4593,10/11/2024,High,Billing,Phone,146,Open,false,false,4,false
+29,TKT-000029,96,2003,11/22/2026,Medium,General Inquiry,Social Media,202,Resolved,false,false,3,true
+30,TKT-000030,123,1824,10/22/2025,Critical,Technical Issue,Phone,309,Open,false,false,3,false
+31,TKT-000031,67,3546,7/29/2024,Low,Technical Issue,Email,144,Resolved,true,false,4,true
+32,TKT-000032,40,4276,7/18/2024,Medium,Technical Issue,Chat,71,Closed,true,false,5,true
+33,TKT-000033,108,2388,6/28/2026,Critical,Billing,Email,444,Resolved,true,false,3,false
+34,TKT-000034,189,2910,4/17/2024,Medium,Account Access,Chat,184,Open,true,false,5,true
+35,TKT-000035,194,3685,1/4/2025,Critical,Account Access,Email,226,Closed,true,true,3,false
+36,TKT-000036,17,2037,3/18/2024,Medium,Billing,Email,242,Closed,true,false,5,true
+37,TKT-000037,15,4025,8/27/2025,High,Technical Issue,Phone,219,In Progress,true,false,4,false
+38,TKT-000038,81,1557,1/8/2024,Medium,Billing,Phone,177,Resolved,true,false,4,false
+39,TKT-000039,29,4081,5/22/2025,Medium,Bug Report,Email,165,Closed,true,false,4,false
+40,TKT-000040,34,749,4/10/2024,Medium,Account Access,Email,230,Resolved,true,false,4,true
+41,TKT-000041,198,3672,7/14/2026,Medium,Billing,Email,103,Closed,true,false,5,true
+42,TKT-000042,161,2915,10/14/2025,Medium,General Inquiry,Email,201,Resolved,true,false,4,false
+43,TKT-000043,48,2738,7/13/2026,Low,Bug Report,Web Portal,41,Pending Customer,true,false,5,true
+44,TKT-000044,175,2799,5/8/2024,High,Billing,Phone,222,In Progress,true,true,3,false
+45,TKT-000045,90,4216,4/23/2024,High,Bug Report,Email,322,Closed,false,false,3,true
+46,TKT-000046,178,1150,2/20/2024,High,Feature Request,Chat,185,Closed,false,false,3,false
+47,TKT-000047,70,1587,5/29/2025,High,Billing,Social Media,362,Resolved,false,true,2,false
+48,TKT-000048,63,1213,3/11/2026,Medium,Account Access,Chat,48,Resolved,true,false,5,true
+49,TKT-000049,179,1534,6/23/2026,Critical,Technical Issue,Web Portal,251,In Progress,false,false,3,false
+50,TKT-000050,35,4888,10/14/2024,Critical,General Inquiry,Phone,308,Resolved,false,true,2,false
+51,TKT-000051,126,3483,6/20/2024,Medium,Account Access,Email,184,Closed,true,false,4,false
+52,TKT-000052,98,3227,8/27/2024,Low,Billing,Chat,137,Pending Customer,true,false,5,true
+53,TKT-000053,43,1844,2/2/2024,Medium,Feature Request,Email,173,Open,true,false,5,true
+54,TKT-000054,11,1003,11/19/2025,Low,Account Access,Phone,66,Resolved,true,false,4,true
+55,TKT-000055,106,2949,7/25/2025,Critical,Billing,Email,496,Resolved,false,true,2,false
+56,TKT-000056,106,580,12/9/2024,Low,Billing,Email,143,Closed,true,false,4,true
+57,TKT-000057,45,2186,6/1/2024,Medium,Bug Report,Chat,115,In Progress,false,true,2,false
+58,TKT-000058,6,3966,5/20/2026,Medium,Billing,Chat,61,Resolved,true,false,5,true
+59,TKT-000059,96,3299,2/5/2024,High,General Inquiry,Chat,261,Pending Customer,true,false,4,false
+60,TKT-000060,104,3010,3/28/2025,High,Billing,Phone,387,Closed,false,false,4,true
+61,TKT-000061,146,1224,6/23/2026,High,Billing,Web Portal,223,In Progress,true,true,4,true
+62,TKT-000062,60,4081,11/24/2026,Medium,General Inquiry,Email,63,Resolved,true,false,4,true
+63,TKT-000063,12,3892,2/20/2025,Medium,Billing,Chat,76,Closed,true,false,4,false
+64,TKT-000064,49,4680,8/18/2024,Medium,Account Access,Social Media,81,Resolved,true,false,5,true
+65,TKT-000065,136,1504,6/22/2024,High,General Inquiry,Chat,168,In Progress,true,false,4,false
+66,TKT-000066,53,927,7/8/2026,Critical,Billing,Web Portal,262,Resolved,false,false,3,false
+67,TKT-000067,6,2655,4/14/2026,Low,Billing,Email,111,In Progress,true,false,5,true
+68,TKT-000068,174,2325,5/12/2026,Medium,General Inquiry,Phone,157,Resolved,true,false,4,true
+69,TKT-000069,127,1149,2/9/2024,Low,Billing,Email,36,Resolved,false,false,4,true
+70,TKT-000070,101,127,5/7/2026,Low,Account Access,Chat,41,Closed,true,true,3,false
+71,TKT-000071,164,2004,3/1/2024,Medium,General Inquiry,Web Portal,78,Resolved,true,false,4,false
+72,TKT-000072,52,2513,10/27/2025,Medium,Account Access,Phone,148,Pending Customer,true,false,5,true
+73,TKT-000073,151,3120,12/25/2024,Low,Billing,Web Portal,42,Resolved,true,false,5,true
+74,TKT-000074,119,4146,3/27/2024,Critical,Billing,Email,317,Closed,false,false,3,false
+75,TKT-000075,23,2789,8/13/2026,High,Technical Issue,Chat,233,Closed,false,false,3,false
+76,TKT-000076,104,1643,2/7/2024,Low,Account Access,Social Media,126,Pending Customer,true,false,5,true
+77,TKT-000077,181,2133,6/21/2024,Low,Billing,Email,81,Closed,true,false,4,true
+78,TKT-000078,57,2606,11/26/2025,High,Bug Report,Email,279,Resolved,true,false,4,true
+79,TKT-000079,186,2096,7/6/2026,High,Feature Request,Email,211,Resolved,true,false,3,false
+80,TKT-000080,126,3496,6/9/2024,High,Account Access,Chat,129,Closed,true,false,4,true
+81,TKT-000081,91,2730,12/21/2024,Medium,Account Access,Web Portal,159,Closed,false,false,4,true
+82,TKT-000082,141,4409,6/8/2026,High,Feature Request,Phone,321,Open,false,true,2,false
+83,TKT-000083,13,2839,4/7/2024,Medium,Billing,Chat,95,Pending Customer,true,false,4,false
+84,TKT-000084,195,2257,9/25/2024,Medium,Technical Issue,Web Portal,133,Resolved,true,false,5,true
+85,TKT-000085,36,3614,5/21/2024,Medium,Technical Issue,Chat,110,Closed,true,true,3,false
+86,TKT-000086,151,3590,4/1/2024,Medium,Technical Issue,Chat,174,Resolved,true,false,4,true
+87,TKT-000087,103,4041,9/7/2025,Medium,Billing,Chat,162,Resolved,true,false,4,true
+88,TKT-000088,113,3998,1/12/2024,Medium,Feature Request,Chat,129,Pending Customer,true,false,5,true
+89,TKT-000089,26,4242,11/16/2025,Critical,Account Access,Email,338,Resolved,false,true,2,false
+90,TKT-000090,108,4807,11/11/2024,Medium,General Inquiry,Phone,116,Closed,true,false,4,true
+91,TKT-000091,143,4764,12/6/2024,High,Billing,Chat,255,Open,true,true,3,false
+92,TKT-000092,179,1385,5/22/2025,Medium,Feature Request,Email,121,Resolved,true,false,5,true
+93,TKT-000093,120,2931,11/24/2025,Medium,Feature Request,Phone,237,Resolved,true,false,4,false
+94,TKT-000094,171,4189,7/24/2025,High,General Inquiry,Chat,286,Closed,true,false,5,true
+95,TKT-000095,27,1477,9/12/2025,Low,General Inquiry,Chat,57,Closed,false,false,3,false
+96,TKT-000096,43,4493,12/6/2024,Medium,Technical Issue,Web Portal,232,Closed,true,false,4,false
+97,TKT-000097,132,461,2/28/2026,High,Feature Request,Web Portal,128,Open,true,false,4,false
+98,TKT-000098,89,1588,10/17/2025,Low,Technical Issue,Email,78,Closed,false,true,3,false
+99,TKT-000099,98,3087,4/15/2025,High,Billing,Web Portal,312,In Progress,false,false,3,false
+100,TKT-000100,165,2836,3/30/2024,High,Technical Issue,Email,245,Pending Customer,true,true,3,false
+101,TKT-000101,119,2495,7/3/2025,Medium,Billing,Phone,173,Open,true,true,3,false
+102,TKT-000102,193,3897,12/27/2025,Medium,Technical Issue,Chat,166,Resolved,true,true,4,true
+103,TKT-000103,84,4715,3/9/2024,Low,Feature Request,Phone,72,In Progress,true,false,5,true
+104,TKT-000104,14,4510,3/19/2024,High,Feature Request,Web Portal,159,Closed,true,false,4,false
+105,TKT-000105,156,956,10/1/2026,High,Feature Request,Chat,221,Closed,false,true,2,false
+106,TKT-000106,90,4874,12/24/2024,High,Technical Issue,Email,275,Closed,true,true,3,false
+107,TKT-000107,140,577,11/18/2026,Medium,General Inquiry,Web Portal,217,Resolved,false,true,2,false
+108,TKT-000108,191,1585,12/19/2026,Low,Technical Issue,Chat,93,Open,true,false,5,true
+109,TKT-000109,53,3949,11/27/2026,Medium,General Inquiry,Email,96,Open,true,true,3,false
+110,TKT-000110,70,2133,6/30/2025,High,Technical Issue,Email,159,Closed,true,false,4,false
+111,TKT-000111,17,2945,1/26/2025,Medium,General Inquiry,Email,98,Open,true,false,4,true
+112,TKT-000112,18,3219,5/23/2026,Critical,Technical Issue,Social Media,448,Open,false,true,2,false
+113,TKT-000113,106,2283,2/20/2025,Medium,General Inquiry,Chat,116,Resolved,true,false,5,true
+114,TKT-000114,44,372,2/24/2026,Critical,Account Access,Email,428,Open,false,true,2,false
+115,TKT-000115,107,1900,12/21/2026,Medium,Technical Issue,Email,148,Closed,true,false,4,true
+116,TKT-000116,126,1290,4/21/2026,Critical,Technical Issue,Chat,349,Open,true,false,3,false
+117,TKT-000117,169,908,3/31/2025,Low,Bug Report,Email,70,In Progress,true,false,4,true
+118,TKT-000118,92,909,10/28/2025,High,Feature Request,Social Media,321,Resolved,false,false,4,true
+119,TKT-000119,79,4298,2/16/2024,Critical,Feature Request,Chat,320,Open,false,true,2,false
+120,TKT-000120,13,2713,4/12/2024,Medium,General Inquiry,Chat,207,Open,true,false,5,true
+121,TKT-000121,59,4856,3/8/2026,Low,General Inquiry,Phone,68,Closed,true,false,4,true
+122,TKT-000122,8,4615,12/27/2026,Critical,Technical Issue,Email,503,Closed,false,false,3,false
+123,TKT-000123,127,1937,2/16/2025,Critical,Bug Report,Chat,221,Resolved,false,false,3,false
+124,TKT-000124,199,3929,11/23/2026,High,Feature Request,Social Media,266,Open,true,false,4,false
+125,TKT-000125,78,380,6/27/2026,Medium,Technical Issue,Phone,151,Closed,true,false,4,false
+126,TKT-000126,151,4314,10/24/2024,High,Billing,Web Portal,253,Open,true,true,3,false
+127,TKT-000127,163,3702,8/8/2025,High,Feature Request,Phone,181,Closed,true,true,4,false
+128,TKT-000128,115,4497,1/3/2024,Critical,General Inquiry,Email,434,Open,false,true,3,false
+129,TKT-000129,169,4626,10/6/2026,Low,Billing,Web Portal,129,Closed,true,false,4,true
+130,TKT-000130,162,1437,8/25/2025,Medium,Technical Issue,Email,68,Open,true,false,4,false
+131,TKT-000131,179,3215,3/17/2026,High,Technical Issue,Email,130,Closed,true,false,4,false
+132,TKT-000132,126,2420,2/11/2026,Medium,Account Access,Email,141,Resolved,true,false,5,true
+133,TKT-000133,57,4124,10/20/2026,High,Technical Issue,Phone,304,Closed,false,false,3,false
+134,TKT-000134,140,834,9/17/2024,Low,Technical Issue,Phone,75,Closed,false,false,4,true
+135,TKT-000135,122,4765,6/11/2026,High,Account Access,Email,341,In Progress,false,false,2,false
+136,TKT-000136,50,800,12/23/2025,High,Feature Request,Email,136,Pending Customer,true,false,4,false
+137,TKT-000137,143,1840,5/20/2026,High,Feature Request,Social Media,370,Closed,true,false,4,false
+138,TKT-000138,181,3180,7/2/2025,Low,General Inquiry,Email,139,Closed,true,false,4,true
+139,TKT-000139,115,3606,9/29/2025,Critical,Technical Issue,Email,447,Closed,false,true,2,false
+140,TKT-000140,182,3623,1/10/2025,Medium,Account Access,Web Portal,240,Resolved,true,true,3,false
+141,TKT-000141,153,3887,8/17/2024,Medium,Technical Issue,Phone,77,Pending Customer,true,false,4,false
+142,TKT-000142,111,1863,5/15/2025,Critical,Bug Report,Phone,245,Closed,false,true,3,false
+143,TKT-000143,200,4110,10/27/2024,High,Technical Issue,Chat,170,Pending Customer,false,false,3,false
+144,TKT-000144,197,2278,3/30/2025,Medium,Bug Report,Email,102,Open,true,true,4,false
+145,TKT-000145,8,1463,10/31/2026,Medium,Technical Issue,Chat,116,Closed,true,false,4,false
+146,TKT-000146,59,2086,8/28/2026,High,Technical Issue,Web Portal,240,Closed,true,true,3,false
+147,TKT-000147,47,1428,7/8/2026,Medium,Account Access,Social Media,59,In Progress,false,false,3,false
+148,TKT-000148,78,314,11/26/2025,Medium,Technical Issue,Email,110,In Progress,true,false,4,true
+149,TKT-000149,100,238,1/16/2025,High,Technical Issue,Email,293,Closed,true,false,4,true
+150,TKT-000150,170,634,5/15/2026,High,Billing,Chat,269,Closed,true,false,5,true
+151,TKT-000151,96,1640,11/2/2025,Critical,Billing,Email,339,Resolved,false,true,2,false
+152,TKT-000152,117,586,10/23/2026,High,Technical Issue,Chat,271,Resolved,false,false,3,false
+153,TKT-000153,2,2999,6/21/2025,Critical,Account Access,Email,428,Closed,false,false,3,false
+154,TKT-000154,30,2029,5/10/2025,High,Technical Issue,Email,321,Closed,true,true,3,false
+155,TKT-000155,175,3750,4/9/2025,High,Technical Issue,Email,150,Open,true,false,4,false
+156,TKT-000156,56,2034,4/1/2025,High,Billing,Email,177,Open,true,false,4,true
+157,TKT-000157,80,2816,9/2/2025,Low,General Inquiry,Phone,139,Closed,false,false,3,true
+158,TKT-000158,42,4697,3/16/2025,Medium,Feature Request,Email,129,Closed,true,true,3,true
+159,TKT-000159,101,1674,2/28/2025,Low,Billing,Chat,127,Closed,true,false,4,false
+160,TKT-000160,197,248,7/26/2025,Low,Technical Issue,Phone,111,Resolved,true,false,3,false
+161,TKT-000161,56,4572,10/14/2024,Low,Billing,Chat,141,Open,true,false,4,true
+162,TKT-000162,5,1822,10/5/2026,Low,General Inquiry,Phone,141,Closed,false,false,3,false
+163,TKT-000163,123,3849,3/8/2024,High,Account Access,Chat,140,Resolved,true,false,3,false
+164,TKT-000164,75,3215,8/5/2024,Medium,Technical Issue,Phone,94,Open,true,false,4,true
+165,TKT-000165,167,4146,5/26/2026,High,Feature Request,Chat,142,Resolved,true,false,4,true
+166,TKT-000166,77,2577,5/26/2024,High,Account Access,Email,121,Closed,true,false,4,false
+167,TKT-000167,98,2026,2/12/2025,Critical,Bug Report,Chat,213,Pending Customer,false,true,3,false
+168,TKT-000168,108,2993,11/11/2025,Critical,Technical Issue,Phone,377,Open,false,false,3,false
+169,TKT-000169,132,958,1/8/2026,Low,Bug Report,Phone,147,Open,true,false,5,true
+170,TKT-000170,12,1878,12/16/2025,Medium,Technical Issue,Chat,242,Closed,true,false,4,false
+171,TKT-000171,45,1245,6/4/2024,High,Technical Issue,Phone,160,Resolved,true,false,4,true
+172,TKT-000172,167,2917,3/21/2025,High,Bug Report,Phone,137,Resolved,true,false,4,true
+173,TKT-000173,129,1132,9/15/2025,High,General Inquiry,Phone,173,Closed,true,true,3,true
+174,TKT-000174,140,3306,5/12/2024,Medium,Billing,Email,172,Closed,true,false,4,true
+175,TKT-000175,72,3970,4/2/2026,Low,Technical Issue,Phone,137,Open,true,false,5,true
+176,TKT-000176,3,27,7/24/2025,Medium,Billing,Web Portal,215,Resolved,true,false,4,true
+177,TKT-000177,146,24,6/29/2026,Medium,Billing,Chat,113,In Progress,true,false,4,true
+178,TKT-000178,27,1675,6/4/2026,Medium,Feature Request,Web Portal,107,Resolved,true,false,4,false
+179,TKT-000179,136,3842,9/25/2025,High,Account Access,Phone,153,Resolved,true,false,4,false
+180,TKT-000180,137,3846,8/10/2026,Low,Technical Issue,Phone,45,Resolved,true,false,4,true
+181,TKT-000181,52,911,8/27/2025,High,Technical Issue,Email,238,Closed,true,false,4,true
+182,TKT-000182,29,39,12/30/2024,High,Feature Request,Chat,181,Closed,false,false,3,false
+183,TKT-000183,48,1703,4/27/2024,Low,Technical Issue,Web Portal,39,Resolved,true,false,4,true
+184,TKT-000184,90,3610,9/24/2025,Medium,Billing,Chat,244,Resolved,true,true,3,false
+185,TKT-000185,188,2595,3/19/2025,Medium,Technical Issue,Email,134,Resolved,true,false,4,true
+186,TKT-000186,60,4121,6/5/2026,Medium,Feature Request,Web Portal,110,In Progress,false,false,3,false
+187,TKT-000187,193,3554,5/7/2024,Medium,Billing,Phone,254,In Progress,true,false,4,true
+188,TKT-000188,132,4756,9/7/2024,Medium,Technical Issue,Chat,97,Open,false,false,3,true
+189,TKT-000189,108,3034,9/16/2026,Critical,General Inquiry,Chat,382,Open,false,true,2,false
+190,TKT-000190,71,1539,11/30/2025,Low,Account Access,Phone,121,Closed,true,false,4,true
+191,TKT-000191,109,3937,8/5/2025,Medium,General Inquiry,Phone,58,Open,true,false,4,true
+192,TKT-000192,22,1484,2/12/2026,High,Account Access,Social Media,306,Closed,false,true,3,false
+193,TKT-000193,83,4708,7/24/2025,Medium,Technical Issue,Email,156,Resolved,true,false,4,false
+194,TKT-000194,9,318,5/29/2025,Low,General Inquiry,Email,113,Closed,true,false,5,true
+195,TKT-000195,24,3107,3/7/2026,Medium,Bug Report,Email,209,Closed,true,false,5,true
+196,TKT-000196,23,3923,11/27/2026,High,Technical Issue,Chat,378,Resolved,false,true,2,false
+197,TKT-000197,70,1106,9/3/2024,Low,Feature Request,Web Portal,37,Resolved,false,false,4,false
+198,TKT-000198,116,886,2/5/2026,Medium,Billing,Chat,95,Resolved,true,false,5,true
+199,TKT-000199,149,599,6/15/2024,Medium,Bug Report,Chat,125,Open,false,false,4,true
+200,TKT-000200,92,1350,7/14/2026,Medium,Technical Issue,Chat,203,In Progress,true,false,4,false
+201,TKT-000201,117,1059,9/1/2025,High,Feature Request,Email,327,In Progress,false,true,2,false
+202,TKT-000202,29,3473,2/19/2024,Medium,Bug Report,Phone,55,Resolved,true,false,4,true
+203,TKT-000203,41,4568,4/16/2024,High,General Inquiry,Phone,246,Closed,true,false,5,true
+204,TKT-000204,192,4571,8/5/2026,Medium,Technical Issue,Email,260,Resolved,true,true,3,false
+205,TKT-000205,160,4806,8/4/2024,Low,Feature Request,Social Media,136,Closed,true,false,4,true
+206,TKT-000206,148,3872,12/10/2024,Critical,Technical Issue,Email,478,Open,false,true,2,false
+207,TKT-000207,172,595,6/30/2024,High,Feature Request,Email,211,Closed,false,false,3,false
+208,TKT-000208,43,610,12/1/2025,Critical,Billing,Email,496,Closed,false,true,2,false
+209,TKT-000209,150,4656,4/25/2025,Low,Billing,Email,47,Closed,false,false,4,true
+210,TKT-000210,154,4791,1/5/2024,Medium,Account Access,Email,174,Open,true,true,3,false
+211,TKT-000211,100,140,10/10/2026,Low,Account Access,Email,100,Closed,true,false,5,true
+212,TKT-000212,115,959,8/2/2024,High,Feature Request,Chat,313,Closed,false,false,3,true
+213,TKT-000213,43,529,6/28/2025,Medium,Feature Request,Web Portal,202,Closed,true,false,5,true
+214,TKT-000214,23,2692,7/18/2026,Medium,Bug Report,Email,170,Resolved,true,false,4,false
+215,TKT-000215,157,4598,3/11/2025,High,Bug Report,Web Portal,233,Open,false,true,2,false
+216,TKT-000216,54,3705,10/19/2026,Medium,Technical Issue,Social Media,202,Closed,true,false,5,true
+217,TKT-000217,105,4004,8/22/2025,High,Bug Report,Social Media,365,Resolved,false,true,2,false
+218,TKT-000218,2,4141,12/11/2026,Medium,Technical Issue,Chat,54,In Progress,true,false,4,false
+219,TKT-000219,97,2785,7/19/2025,Medium,Billing,Email,128,Resolved,true,false,3,false
+220,TKT-000220,172,1695,2/26/2024,Medium,Technical Issue,Chat,180,Resolved,false,false,3,false
+221,TKT-000221,42,2121,8/11/2024,High,Account Access,Web Portal,386,Open,false,false,4,true
+222,TKT-000222,23,3357,3/5/2024,Low,Account Access,Email,120,Resolved,true,false,4,true
+223,TKT-000223,43,222,8/20/2025,Critical,General Inquiry,Email,254,Resolved,false,false,3,false
+224,TKT-000224,92,3312,12/11/2026,Medium,Account Access,Email,235,In Progress,true,false,4,true
+225,TKT-000225,50,2637,9/1/2024,High,Account Access,Email,280,Closed,true,false,4,true
+226,TKT-000226,159,4540,7/2/2025,High,Account Access,Phone,341,Resolved,false,true,3,true
+227,TKT-000227,142,1013,2/2/2024,Medium,Bug Report,Chat,201,Resolved,true,true,4,true
+228,TKT-000228,14,3453,10/7/2024,Critical,Technical Issue,Phone,234,Closed,true,false,4,false
+229,TKT-000229,192,450,7/10/2026,Medium,Technical Issue,Web Portal,79,Resolved,true,false,4,true
+230,TKT-000230,177,4479,3/24/2025,Critical,Billing,Chat,304,Closed,false,true,2,false
+231,TKT-000231,73,1956,11/29/2026,High,Technical Issue,Email,258,Closed,true,true,4,true
+232,TKT-000232,195,4324,10/5/2026,High,Feature Request,Web Portal,299,Resolved,true,false,4,false
+233,TKT-000233,58,4342,11/26/2025,Medium,General Inquiry,Phone,171,Closed,true,false,5,true
+234,TKT-000234,116,3830,6/18/2024,High,Account Access,Phone,327,Closed,false,true,2,false
+235,TKT-000235,146,4090,1/31/2024,Low,Feature Request,Phone,70,Open,true,false,5,true
+236,TKT-000236,138,131,6/20/2025,Critical,Technical Issue,Chat,508,Resolved,false,false,2,false
+237,TKT-000237,53,912,7/25/2025,Medium,Technical Issue,Phone,205,Open,false,false,3,false
+238,TKT-000238,141,4857,1/24/2024,Critical,Billing,Chat,183,Resolved,true,true,3,false
+239,TKT-000239,198,1566,5/9/2026,Low,Technical Issue,Phone,135,Resolved,true,false,5,true
+240,TKT-000240,112,1107,11/24/2025,High,Technical Issue,Web Portal,183,Closed,true,false,4,false
+241,TKT-000241,122,4029,5/18/2026,Critical,Billing,Email,206,Resolved,true,false,4,false
+242,TKT-000242,135,4053,6/17/2025,Medium,Technical Issue,Chat,178,In Progress,true,false,4,false
+243,TKT-000243,18,3460,4/12/2026,High,Feature Request,Web Portal,163,Resolved,true,true,3,false
+244,TKT-000244,139,94,2/2/2026,Low,Technical Issue,Phone,71,Open,true,false,5,true
+245,TKT-000245,124,3880,2/14/2024,Medium,Account Access,Chat,129,Open,true,false,4,false
+246,TKT-000246,81,951,12/10/2024,High,Billing,Phone,394,Resolved,false,false,3,false
+247,TKT-000247,45,4004,10/12/2025,Low,Account Access,Chat,131,In Progress,true,false,4,false
+248,TKT-000248,158,1266,10/13/2024,Critical,Technical Issue,Phone,380,Closed,false,true,2,false
+249,TKT-000249,43,1174,8/24/2026,High,Feature Request,Email,133,Closed,false,false,4,true
+250,TKT-000250,15,1955,7/19/2026,Medium,Technical Issue,Phone,224,Resolved,false,true,2,false
+251,TKT-000251,20,990,2/14/2024,Medium,Technical Issue,Email,223,Resolved,false,true,3,false
+252,TKT-000252,124,3272,2/4/2025,Low,Feature Request,Email,71,In Progress,true,false,3,false
+253,TKT-000253,199,2083,11/2/2024,Medium,Technical Issue,Email,238,Resolved,true,false,4,true
+254,TKT-000254,141,2889,7/26/2024,High,General Inquiry,Web Portal,177,In Progress,false,false,3,false
+255,TKT-000255,7,1491,10/15/2024,Low,Account Access,Email,42,Closed,true,false,4,true
+256,TKT-000256,81,787,1/29/2026,Medium,Technical Issue,Chat,70,Resolved,true,false,4,true
+257,TKT-000257,13,3777,12/15/2024,High,Bug Report,Email,253,Closed,false,true,2,false
+258,TKT-000258,141,3420,11/7/2025,Medium,Bug Report,Email,139,Resolved,true,false,4,true
+259,TKT-000259,54,2751,6/28/2026,Medium,Technical Issue,Email,118,Closed,true,true,3,false
+260,TKT-000260,77,3522,5/25/2025,High,Feature Request,Email,170,Resolved,true,false,4,false
+261,TKT-000261,68,4484,9/20/2025,Low,Billing,Chat,43,Resolved,true,false,5,true
+262,TKT-000262,13,562,10/24/2026,High,Account Access,Email,267,Resolved,true,false,4,true
+263,TKT-000263,112,3094,1/7/2026,Critical,Feature Request,Phone,431,Closed,false,false,3,false
+264,TKT-000264,138,450,9/6/2024,Medium,General Inquiry,Chat,257,Closed,true,false,5,true
+265,TKT-000265,52,2954,1/25/2025,Low,Technical Issue,Email,79,In Progress,true,false,4,true
+266,TKT-000266,97,331,6/13/2026,Medium,Billing,Email,246,In Progress,true,false,4,true
+267,TKT-000267,185,963,7/30/2026,High,Billing,Phone,168,Open,true,false,3,false
+268,TKT-000268,95,1214,10/4/2024,Low,Account Access,Web Portal,26,Closed,true,false,5,true
+269,TKT-000269,189,1778,1/13/2025,High,Technical Issue,Chat,207,Closed,true,false,4,true
+270,TKT-000270,141,1550,7/24/2025,Low,Technical Issue,Email,28,Resolved,true,false,5,true
+271,TKT-000271,95,829,12/30/2024,Low,Technical Issue,Web Portal,102,Resolved,true,false,5,true
+272,TKT-000272,182,472,6/13/2025,High,Account Access,Email,184,Closed,true,false,4,false
+273,TKT-000273,153,3769,11/10/2024,High,Technical Issue,Phone,256,Closed,true,false,3,false
+274,TKT-000274,147,4330,4/7/2024,High,Billing,Chat,199,Closed,true,false,4,false
+275,TKT-000275,149,4408,1/13/2026,Critical,Account Access,Chat,300,Resolved,false,true,2,false
+276,TKT-000276,3,3675,5/27/2024,High,Technical Issue,Email,172,Closed,true,false,4,true
+277,TKT-000277,10,2794,10/13/2025,Critical,Feature Request,Email,255,Closed,false,false,3,false
+278,TKT-000278,128,3482,11/2/2025,Medium,Feature Request,Web Portal,208,Resolved,true,false,4,false
+279,TKT-000279,165,3580,2/14/2025,Medium,Technical Issue,Phone,48,Resolved,true,false,4,false
+280,TKT-000280,164,2135,1/1/2025,Low,Billing,Chat,95,Open,true,false,4,true
+281,TKT-000281,104,1602,4/14/2024,Low,Account Access,Email,82,Resolved,true,false,5,true
+282,TKT-000282,93,2125,2/18/2024,Medium,General Inquiry,Chat,152,Resolved,true,false,4,false
+283,TKT-000283,119,4608,3/15/2026,Critical,General Inquiry,Chat,508,Resolved,false,false,3,false
+284,TKT-000284,87,3328,4/10/2026,Medium,Account Access,Phone,161,Closed,true,false,4,false
+285,TKT-000285,23,307,3/21/2026,Medium,Feature Request,Chat,107,Open,true,false,4,false
+286,TKT-000286,93,2344,10/12/2025,High,Bug Report,Chat,336,Resolved,false,true,2,false
+287,TKT-000287,118,2801,11/17/2026,Medium,Bug Report,Social Media,214,Closed,true,false,4,false
+288,TKT-000288,179,838,12/8/2025,Medium,Technical Issue,Phone,144,Pending Customer,true,false,4,true
+289,TKT-000289,37,716,5/6/2026,Critical,Technical Issue,Web Portal,291,In Progress,false,false,3,false
+290,TKT-000290,37,3125,2/2/2026,High,Billing,Web Portal,171,Resolved,true,false,4,true
+291,TKT-000291,41,4138,4/12/2026,High,Feature Request,Email,128,Resolved,true,false,4,false
+292,TKT-000292,45,3613,1/1/2026,Medium,Account Access,Web Portal,161,Closed,true,false,5,true
+293,TKT-000293,35,3040,4/4/2025,Low,Technical Issue,Phone,51,Closed,true,false,4,true
+294,TKT-000294,108,4016,1/6/2025,Low,Billing,Email,117,Closed,true,true,4,true
+295,TKT-000295,39,4032,5/14/2024,Medium,Account Access,Email,223,Resolved,true,false,4,true
+296,TKT-000296,129,124,8/31/2025,Medium,Technical Issue,Chat,147,Resolved,true,false,5,true
+297,TKT-000297,128,4564,7/5/2026,High,General Inquiry,Phone,320,Closed,false,true,2,false
+298,TKT-000298,164,2465,4/25/2026,Critical,Billing,Email,504,In Progress,false,false,3,false
+299,TKT-000299,162,4552,8/5/2024,High,General Inquiry,Phone,194,Open,true,false,4,false
+300,TKT-000300,120,590,1/16/2026,Low,Technical Issue,Email,139,Resolved,true,false,5,true
+301,TKT-000301,156,246,4/9/2026,Medium,Billing,Email,165,Closed,true,false,4,true
+302,TKT-000302,131,4880,7/16/2025,High,Feature Request,Phone,249,Resolved,true,false,4,false
+303,TKT-000303,112,412,12/24/2024,High,Technical Issue,Chat,263,Closed,true,false,4,true
+304,TKT-000304,101,1100,12/6/2024,Medium,Billing,Email,204,Open,true,false,5,true
+305,TKT-000305,121,1717,7/8/2026,Medium,Account Access,Chat,143,Resolved,false,false,3,false
+306,TKT-000306,3,2853,2/20/2026,Critical,Technical Issue,Web Portal,251,Pending Customer,false,true,2,false
+307,TKT-000307,14,504,11/13/2026,Medium,Technical Issue,Chat,98,Resolved,true,false,4,true
+308,TKT-000308,90,672,6/11/2026,Critical,Feature Request,Phone,253,Open,false,true,3,false
+309,TKT-000309,39,4187,4/9/2026,Critical,Billing,Email,286,Closed,false,false,4,true
+310,TKT-000310,109,1426,10/30/2025,Low,Technical Issue,Email,43,Resolved,true,false,4,false
+311,TKT-000311,158,791,2/25/2026,High,General Inquiry,Email,221,Closed,true,true,4,true
+312,TKT-000312,118,2480,10/18/2026,Critical,Billing,Web Portal,239,Closed,true,true,3,false
+313,TKT-000313,143,2632,7/21/2026,High,Billing,Chat,372,Closed,false,false,3,false
+314,TKT-000314,44,1022,7/20/2025,Low,Feature Request,Email,83,Resolved,true,false,3,false
+315,TKT-000315,62,2476,12/11/2026,High,Billing,Email,284,Closed,true,false,4,false
+316,TKT-000316,67,1597,11/6/2024,Medium,Feature Request,Email,140,Closed,true,false,4,false
+317,TKT-000317,109,3784,2/19/2026,Critical,General Inquiry,Phone,364,Closed,false,true,2,false
+318,TKT-000318,83,3312,4/9/2024,Medium,General Inquiry,Email,129,Closed,true,true,3,false
+319,TKT-000319,53,4966,12/7/2025,Medium,General Inquiry,Chat,81,Resolved,false,false,3,false
+320,TKT-000320,40,625,9/20/2026,Low,Feature Request,Phone,113,Open,true,false,5,true
+321,TKT-000321,186,3220,3/26/2026,High,Technical Issue,Phone,265,Resolved,true,false,4,false
+322,TKT-000322,142,601,9/2/2026,Medium,Feature Request,Social Media,119,Resolved,true,false,5,true
+323,TKT-000323,196,1050,4/26/2025,Medium,Technical Issue,Phone,174,Resolved,true,false,4,true
+324,TKT-000324,11,3975,3/16/2025,Low,Account Access,Email,69,Resolved,true,false,5,true
+325,TKT-000325,93,2064,10/12/2024,High,Billing,Phone,140,Closed,true,false,4,false
+326,TKT-000326,31,90,7/5/2026,Medium,Bug Report,Email,147,In Progress,true,true,4,true
+327,TKT-000327,187,2717,9/22/2025,Critical,Account Access,Chat,491,Closed,false,true,2,false
+328,TKT-000328,125,1753,10/6/2026,Medium,Feature Request,Phone,141,Open,true,false,4,false
+329,TKT-000329,149,4807,1/17/2025,High,Account Access,Chat,162,Resolved,true,false,4,false
+330,TKT-000330,166,2121,12/22/2024,Medium,Technical Issue,Email,70,Open,true,false,4,true
+331,TKT-000331,177,2797,1/27/2026,Critical,General Inquiry,Email,515,Closed,true,false,4,true
+332,TKT-000332,94,4651,9/3/2024,High,Bug Report,Email,252,Resolved,true,true,3,true
+333,TKT-000333,40,865,8/25/2026,High,Bug Report,Chat,147,Closed,true,false,4,false
+334,TKT-000334,150,4202,6/12/2026,Medium,Account Access,Social Media,152,Closed,true,false,4,true
+335,TKT-000335,191,762,7/15/2025,High,Technical Issue,Email,318,Resolved,false,false,3,false
+336,TKT-000336,114,2914,12/28/2024,Medium,Account Access,Phone,242,Resolved,true,true,3,false
+337,TKT-000337,195,2002,9/6/2024,High,Billing,Email,197,Resolved,true,false,5,true
+338,TKT-000338,42,3913,12/10/2026,High,Bug Report,Web Portal,165,Closed,true,true,3,false
+339,TKT-000339,165,4454,9/10/2025,Critical,Bug Report,Email,471,Resolved,false,false,3,true
+340,TKT-000340,20,1526,6/19/2025,High,Account Access,Social Media,194,Pending Customer,true,true,3,false
+341,TKT-000341,25,2830,9/18/2024,Medium,Feature Request,Chat,162,Resolved,true,false,3,false
+342,TKT-000342,112,4355,7/19/2025,Low,Account Access,Email,28,Closed,false,true,3,false
+343,TKT-000343,72,2450,9/7/2025,Medium,Feature Request,Phone,65,Closed,true,false,5,true
+344,TKT-000344,36,4697,5/5/2024,Low,Technical Issue,Chat,144,Open,true,false,4,false
+345,TKT-000345,15,1254,6/14/2026,High,General Inquiry,Phone,360,Resolved,false,true,2,false
+346,TKT-000346,185,424,12/30/2026,Critical,Technical Issue,Phone,510,Resolved,false,false,3,false
+347,TKT-000347,39,4731,7/19/2025,High,Feature Request,Chat,351,Closed,false,false,3,false
+348,TKT-000348,134,4600,3/10/2026,Critical,Billing,Phone,211,Closed,true,false,4,false
+349,TKT-000349,96,2001,12/2/2026,High,Technical Issue,Email,127,In Progress,true,false,4,true
+350,TKT-000350,77,4451,10/16/2024,Low,General Inquiry,Phone,83,Resolved,true,false,5,true
+351,TKT-000351,99,1980,1/20/2026,Medium,Bug Report,Chat,251,Pending Customer,true,false,4,true
+352,TKT-000352,70,271,12/4/2024,Critical,Bug Report,Phone,260,Closed,false,false,2,false
+353,TKT-000353,106,78,1/5/2024,Critical,Bug Report,Phone,252,Resolved,false,false,3,false
+354,TKT-000354,6,4206,1/5/2024,Medium,Account Access,Email,249,Closed,true,false,4,false
+355,TKT-000355,178,2818,1/3/2026,High,Account Access,Email,163,In Progress,true,false,5,true
+356,TKT-000356,155,4763,8/28/2026,High,Billing,Phone,239,In Progress,true,true,3,false
+357,TKT-000357,23,464,3/26/2025,Critical,Technical Issue,Phone,310,Closed,false,true,2,false
+358,TKT-000358,124,691,4/21/2024,High,Feature Request,Email,394,Resolved,false,false,4,true
+359,TKT-000359,8,1292,9/8/2024,Critical,Account Access,Phone,312,Closed,false,true,2,false
+360,TKT-000360,107,4257,2/9/2025,Low,Billing,Phone,68,Resolved,true,false,4,false
+361,TKT-000361,20,212,6/27/2025,Critical,Feature Request,Web Portal,475,Resolved,false,true,2,false
+362,TKT-000362,178,4583,10/24/2026,Medium,Technical Issue,Email,56,Resolved,true,false,4,false
+363,TKT-000363,10,4832,2/18/2026,High,Technical Issue,Web Portal,357,Closed,false,true,2,false
+364,TKT-000364,20,2507,7/6/2025,Medium,Billing,Web Portal,177,Resolved,true,true,4,true
+365,TKT-000365,127,825,9/21/2024,Low,Technical Issue,Chat,144,Resolved,true,false,4,false
+366,TKT-000366,177,2678,8/8/2024,Medium,Billing,Chat,69,Resolved,true,false,4,false
+367,TKT-000367,54,3592,10/20/2026,Medium,Technical Issue,Email,110,Closed,true,false,4,false
+368,TKT-000368,35,4207,11/28/2026,Critical,Feature Request,Email,194,Resolved,false,true,2,false
+369,TKT-000369,97,542,4/17/2025,Critical,Technical Issue,Phone,212,Resolved,true,false,4,false
+370,TKT-000370,79,291,6/13/2026,High,Feature Request,Web Portal,166,Resolved,true,false,4,false
+371,TKT-000371,138,1198,1/17/2025,Medium,Technical Issue,Phone,216,Closed,true,false,4,false
+372,TKT-000372,144,4973,4/25/2025,High,Billing,Email,240,Closed,true,true,3,true
+373,TKT-000373,2,3368,5/14/2024,High,Feature Request,Web Portal,300,Closed,false,false,4,true
+374,TKT-000374,30,1740,12/12/2025,Medium,Billing,Email,111,Resolved,true,false,4,false
+375,TKT-000375,128,2275,1/17/2025,Low,Bug Report,Chat,34,Closed,false,false,3,true
+376,TKT-000376,10,2664,10/12/2026,High,Billing,Web Portal,272,Closed,true,false,4,false
+377,TKT-000377,140,2346,8/9/2024,High,Technical Issue,Phone,310,Closed,false,true,2,false
+378,TKT-000378,62,4066,11/1/2026,Medium,Bug Report,Web Portal,106,Open,true,false,4,false
+379,TKT-000379,183,543,11/13/2025,High,Feature Request,Phone,219,Closed,true,true,3,false
+380,TKT-000380,7,2327,9/30/2026,Medium,Billing,Web Portal,203,Closed,true,false,4,true
+381,TKT-000381,122,1442,8/10/2025,High,Technical Issue,Chat,169,Pending Customer,true,false,4,true
+382,TKT-000382,93,3940,9/11/2024,Medium,Technical Issue,Chat,131,In Progress,true,false,4,true
+383,TKT-000383,121,280,4/12/2025,High,Feature Request,Email,289,Resolved,true,true,3,false
+384,TKT-000384,57,3205,6/30/2024,Low,Bug Report,Email,57,Closed,true,false,4,true
+385,TKT-000385,70,506,4/27/2024,High,Billing,Social Media,133,Open,true,false,4,true
+386,TKT-000386,22,4064,12/20/2024,Medium,Bug Report,Email,170,Resolved,false,false,3,true
+387,TKT-000387,56,1147,7/2/2024,Low,Account Access,Web Portal,34,Pending Customer,true,false,4,false
+388,TKT-000388,136,1372,11/25/2026,Low,Bug Report,Phone,93,Closed,false,false,3,false
+389,TKT-000389,135,219,7/23/2026,Low,Account Access,Phone,86,In Progress,true,false,4,true
+390,TKT-000390,177,4208,3/22/2025,Low,Billing,Social Media,61,Closed,false,false,4,true
+391,TKT-000391,134,920,3/9/2026,Low,Account Access,Phone,24,Open,true,false,4,true
+392,TKT-000392,8,4233,11/25/2026,Medium,Billing,Chat,247,Resolved,true,false,4,true
+393,TKT-000393,132,3499,2/2/2026,Critical,Billing,Email,389,Resolved,false,true,2,false
+394,TKT-000394,142,162,7/2/2025,Critical,General Inquiry,Web Portal,297,Closed,false,true,2,false
+395,TKT-000395,88,2909,8/2/2026,Critical,Feature Request,Email,491,Open,false,false,3,true
+396,TKT-000396,158,3734,10/26/2025,High,Billing,Email,218,Pending Customer,true,true,4,true
+397,TKT-000397,43,1568,8/6/2026,Medium,Bug Report,Email,149,Resolved,true,false,4,true
+398,TKT-000398,57,2342,4/29/2024,High,Billing,Email,264,Closed,true,false,3,false
+399,TKT-000399,153,3444,10/22/2026,High,Technical Issue,Phone,364,Closed,false,false,4,true
+400,TKT-000400,61,1071,12/13/2025,Medium,Technical Issue,Social Media,138,Resolved,false,false,4,true
+401,TKT-000401,130,3792,5/1/2025,High,Account Access,Email,302,Closed,false,false,3,false
+402,TKT-000402,62,1456,6/2/2025,High,Technical Issue,Phone,245,Resolved,true,false,5,true
+403,TKT-000403,162,1265,11/25/2025,Low,Feature Request,Chat,117,Closed,true,false,4,true
+404,TKT-000404,182,4923,2/6/2024,High,Billing,Web Portal,373,In Progress,false,true,2,false
+405,TKT-000405,29,4959,3/18/2024,Low,Bug Report,Email,82,Resolved,true,false,4,true
+406,TKT-000406,153,476,12/13/2025,Medium,Technical Issue,Email,109,Open,true,false,5,true
+407,TKT-000407,126,546,7/19/2026,Medium,Account Access,Phone,234,Closed,true,true,3,false
+408,TKT-000408,198,824,8/19/2025,Critical,Technical Issue,Phone,447,Closed,false,true,2,false
+409,TKT-000409,26,4557,11/11/2025,Medium,Technical Issue,Web Portal,90,Resolved,false,true,2,false
+410,TKT-000410,51,4204,11/11/2024,Critical,Billing,Email,323,Resolved,true,true,3,false
+411,TKT-000411,83,2330,6/2/2025,Low,Technical Issue,Email,78,Open,true,false,5,true
+412,TKT-000412,195,2295,2/29/2024,Critical,Technical Issue,Chat,264,Closed,false,true,2,false
+413,TKT-000413,198,4582,11/29/2026,Low,Technical Issue,Web Portal,29,Closed,true,false,4,true
+414,TKT-000414,63,3010,8/25/2024,Critical,Bug Report,Web Portal,303,Open,false,false,3,false
+415,TKT-000415,8,1213,10/5/2024,Low,Account Access,Social Media,102,Resolved,true,false,5,true
+416,TKT-000416,154,2669,9/15/2025,Medium,Billing,Email,219,In Progress,true,false,5,true
+417,TKT-000417,46,47,8/12/2024,High,Feature Request,Phone,306,Resolved,true,true,3,false
+418,TKT-000418,48,450,5/25/2024,High,Billing,Email,130,Resolved,true,false,5,true
+419,TKT-000419,152,1824,9/8/2024,Critical,Feature Request,Chat,412,Resolved,false,false,3,false
+420,TKT-000420,31,1450,2/13/2024,High,Account Access,Chat,137,Resolved,true,false,4,false
+421,TKT-000421,191,2184,8/19/2025,High,Account Access,Phone,397,Resolved,false,true,2,true
+422,TKT-000422,93,3913,9/26/2026,Critical,Bug Report,Email,186,Closed,true,false,4,false
+423,TKT-000423,7,1792,12/4/2025,Medium,Feature Request,Web Portal,210,Pending Customer,true,true,4,false
+424,TKT-000424,39,3801,8/30/2026,Low,Bug Report,Phone,88,Closed,false,false,3,false
+425,TKT-000425,130,101,12/29/2025,Critical,Bug Report,Web Portal,441,Closed,false,true,2,false
+426,TKT-000426,33,2807,4/20/2024,Medium,Account Access,Phone,107,Closed,true,false,4,true
+427,TKT-000427,174,4719,10/17/2026,Medium,Billing,Phone,222,In Progress,true,false,5,true
+428,TKT-000428,61,4094,3/24/2025,High,Feature Request,Phone,355,Closed,false,true,3,false
+429,TKT-000429,109,1905,1/6/2024,Low,Account Access,Phone,27,Open,true,false,4,true
+430,TKT-000430,127,3246,2/19/2024,High,Technical Issue,Phone,322,Closed,true,false,4,false
+431,TKT-000431,189,302,8/25/2026,High,Technical Issue,Web Portal,286,Resolved,true,false,4,false
+432,TKT-000432,158,936,10/22/2026,High,General Inquiry,Email,131,Resolved,true,true,3,false
+433,TKT-000433,129,637,6/6/2026,Low,Billing,Chat,35,Resolved,true,false,5,true
+434,TKT-000434,28,245,6/22/2024,High,General Inquiry,Email,386,Resolved,false,false,3,false
+435,TKT-000435,22,2959,10/15/2024,High,Billing,Chat,292,Closed,true,true,3,false
+436,TKT-000436,71,1555,8/16/2024,Low,Feature Request,Chat,90,Resolved,true,false,5,true
+437,TKT-000437,13,4789,5/8/2025,Medium,Feature Request,Phone,239,Closed,true,false,4,false
+438,TKT-000438,168,2697,5/16/2026,High,Billing,Web Portal,185,Closed,true,true,3,false
+439,TKT-000439,88,2730,12/5/2025,Medium,Billing,Email,75,Resolved,true,false,4,true
+440,TKT-000440,60,4040,4/23/2024,Medium,Billing,Email,245,Closed,true,false,5,true
+441,TKT-000441,148,3473,5/15/2024,High,Billing,Email,354,Resolved,false,true,2,false
+442,TKT-000442,105,4982,3/7/2026,Medium,Technical Issue,Chat,197,Open,true,false,4,false
+443,TKT-000443,134,4269,8/27/2026,Medium,Bug Report,Chat,172,Resolved,true,false,5,true
+444,TKT-000444,161,4379,2/26/2026,Medium,Billing,Email,156,Resolved,true,false,5,true
+445,TKT-000445,64,2840,7/11/2025,Low,Technical Issue,Chat,102,In Progress,true,false,4,true
+446,TKT-000446,71,481,11/18/2025,Critical,General Inquiry,Social Media,398,Resolved,false,false,3,true
+447,TKT-000447,117,2947,12/26/2026,High,General Inquiry,Email,374,Resolved,false,false,4,true
+448,TKT-000448,180,4918,9/2/2024,High,Technical Issue,Email,343,Closed,false,false,3,false
+449,TKT-000449,7,1340,6/7/2025,Medium,Account Access,Phone,136,Resolved,false,false,3,true
+450,TKT-000450,133,1612,8/16/2025,High,Billing,Social Media,154,In Progress,true,true,3,false
+451,TKT-000451,81,17,12/19/2026,Medium,Feature Request,Web Portal,188,Resolved,true,false,4,true
+452,TKT-000452,51,1550,10/15/2025,Low,Technical Issue,Email,122,Closed,true,false,4,false
+453,TKT-000453,101,2937,11/26/2026,Medium,Billing,Phone,180,Closed,true,true,4,true
+454,TKT-000454,68,3464,7/23/2026,High,Billing,Chat,158,Open,true,false,5,true
+455,TKT-000455,75,4961,2/20/2024,Medium,Account Access,Social Media,221,Resolved,true,false,5,true
+456,TKT-000456,187,553,2/4/2026,Critical,Billing,Phone,503,Open,false,true,2,false
+457,TKT-000457,28,4939,11/9/2025,Critical,Account Access,Phone,276,Closed,false,true,2,false
+458,TKT-000458,177,3116,1/19/2025,Medium,General Inquiry,Email,190,Resolved,true,false,4,true
+459,TKT-000459,101,2929,11/7/2025,High,Bug Report,Chat,121,Closed,true,false,4,true
+460,TKT-000460,127,4910,7/28/2024,Critical,Account Access,Web Portal,230,Resolved,true,false,4,true
+461,TKT-000461,50,4980,11/8/2025,High,General Inquiry,Email,256,Open,true,false,3,false
+462,TKT-000462,152,2392,11/18/2026,Critical,General Inquiry,Web Portal,281,Closed,false,true,3,false
+463,TKT-000463,48,1277,3/7/2026,Critical,Billing,Web Portal,234,Closed,false,true,2,false
+464,TKT-000464,13,3881,4/24/2026,High,Feature Request,Chat,359,Resolved,false,false,3,true
+465,TKT-000465,2,475,12/3/2024,Medium,Bug Report,Email,242,Resolved,true,false,4,true
+466,TKT-000466,61,3922,6/14/2026,High,Feature Request,Social Media,136,Closed,true,true,3,false
+467,TKT-000467,183,1411,5/29/2026,Critical,Billing,Social Media,358,Closed,false,false,3,true
+468,TKT-000468,147,4122,12/21/2026,Medium,Billing,Email,146,Closed,true,false,5,true
+469,TKT-000469,43,2140,6/9/2024,Critical,Technical Issue,Chat,307,Resolved,false,true,2,false
+470,TKT-000470,45,332,8/16/2024,High,Billing,Chat,123,Open,true,false,5,true
+471,TKT-000471,135,947,4/3/2025,High,Billing,Email,373,Closed,false,true,2,false
+472,TKT-000472,191,2387,1/10/2024,Medium,Billing,Email,194,Open,true,false,4,false
+473,TKT-000473,179,56,6/30/2026,High,Technical Issue,Phone,244,Open,false,true,2,false
+474,TKT-000474,28,1819,8/10/2024,High,Account Access,Chat,268,Open,true,false,5,true
+475,TKT-000475,58,3017,3/23/2026,High,Billing,Phone,291,In Progress,true,true,4,true
+476,TKT-000476,134,652,6/17/2025,Low,Bug Report,Social Media,109,Resolved,true,false,4,true
+477,TKT-000477,173,4135,10/27/2025,Medium,Account Access,Email,156,Resolved,false,false,3,true
+478,TKT-000478,134,4492,4/19/2026,Critical,Technical Issue,Phone,246,Resolved,true,true,3,false
+479,TKT-000479,121,3828,10/5/2024,High,Bug Report,Chat,346,Resolved,false,false,3,true
+480,TKT-000480,101,833,11/24/2026,High,Account Access,Email,230,Closed,true,false,4,false
+481,TKT-000481,156,695,12/1/2025,Medium,Billing,Email,166,Resolved,true,false,4,true
+482,TKT-000482,181,2949,12/14/2025,High,Technical Issue,Chat,253,Resolved,true,false,4,false
+483,TKT-000483,22,4965,10/17/2025,Low,Bug Report,Email,123,Closed,true,false,3,false
+484,TKT-000484,33,2865,5/18/2024,Low,General Inquiry,Email,43,Closed,true,false,4,true
+485,TKT-000485,200,1856,3/1/2025,High,Bug Report,Email,194,Resolved,true,false,4,true
+486,TKT-000486,41,1908,2/11/2024,Medium,Technical Issue,Social Media,104,Resolved,true,false,5,true
+487,TKT-000487,2,1058,7/31/2025,High,Billing,Chat,305,Closed,false,false,4,true
+488,TKT-000488,37,2101,5/11/2025,Medium,Account Access,Email,67,Resolved,true,false,4,false
+489,TKT-000489,133,2338,5/16/2024,Medium,General Inquiry,Email,148,Closed,true,false,4,false
+490,TKT-000490,103,3983,12/1/2025,Medium,Technical Issue,Web Portal,78,Closed,true,false,5,true
+491,TKT-000491,14,4654,7/20/2025,High,General Inquiry,Phone,299,Resolved,true,true,3,false
+492,TKT-000492,116,3694,2/1/2025,Critical,Billing,Chat,385,Open,false,false,3,true
+493,TKT-000493,16,2490,11/21/2026,Medium,Technical Issue,Chat,200,Closed,true,false,4,true
+494,TKT-000494,49,2351,4/22/2024,Low,Technical Issue,Email,61,Resolved,true,false,5,true
+495,TKT-000495,173,3324,9/30/2024,High,Technical Issue,Chat,279,Resolved,true,false,4,false
+496,TKT-000496,147,4984,2/6/2024,High,Account Access,Email,374,Resolved,false,true,2,false
+497,TKT-000497,103,4888,5/29/2024,Critical,Bug Report,Email,358,Open,false,true,2,false
+498,TKT-000498,59,349,9/29/2024,High,Billing,Phone,141,Closed,true,false,4,false
+499,TKT-000499,197,2057,10/24/2024,Medium,Technical Issue,Email,219,In Progress,false,false,4,true
+500,TKT-000500,39,996,8/10/2026,Medium,Account Access,Phone,236,In Progress,true,false,4,false
+501,TKT-000501,156,2275,11/29/2024,Medium,Bug Report,Chat,202,Resolved,true,false,5,true
+502,TKT-000502,123,1090,5/29/2024,High,Technical Issue,Phone,337,Resolved,false,true,2,false
+503,TKT-000503,141,413,8/23/2026,Critical,Technical Issue,Phone,501,Resolved,false,true,2,false
+504,TKT-000504,87,991,11/19/2026,High,Technical Issue,Email,382,Open,false,false,3,false
+505,TKT-000505,64,2669,4/28/2026,High,Feature Request,Chat,253,Resolved,true,true,3,false
+506,TKT-000506,105,3980,1/8/2024,High,Billing,Email,253,Closed,true,true,3,false
+507,TKT-000507,172,2486,5/25/2024,High,Technical Issue,Chat,223,Resolved,true,true,3,false
+508,TKT-000508,100,906,4/12/2025,High,General Inquiry,Chat,367,Closed,false,true,2,false
+509,TKT-000509,63,1945,4/23/2025,Low,Technical Issue,Chat,109,Open,true,false,5,true
+510,TKT-000510,25,1819,7/24/2025,High,Account Access,Phone,243,In Progress,true,false,4,false
+511,TKT-000511,54,2794,7/5/2025,High,Technical Issue,Phone,206,Closed,true,true,4,false
+512,TKT-000512,140,2949,5/12/2024,Medium,Feature Request,Chat,148,Resolved,true,true,4,true
+513,TKT-000513,111,1934,10/7/2026,High,Account Access,Email,225,Resolved,false,false,3,true
+514,TKT-000514,46,3851,1/20/2025,Low,Bug Report,Phone,99,Open,true,false,4,true
+515,TKT-000515,92,672,11/27/2026,High,Technical Issue,Chat,305,Closed,false,false,4,true
+516,TKT-000516,20,162,10/23/2026,Medium,General Inquiry,Phone,237,Open,true,false,5,true
+517,TKT-000517,57,1962,7/5/2025,Critical,Feature Request,Email,315,Open,true,false,4,false
+518,TKT-000518,68,3431,11/20/2024,High,Account Access,Phone,398,Closed,false,true,3,true
+519,TKT-000519,78,2679,6/29/2026,High,Account Access,Email,248,Closed,true,true,3,false
+520,TKT-000520,85,481,10/23/2026,High,Feature Request,Chat,322,Resolved,false,true,2,false
+521,TKT-000521,84,82,5/17/2024,Low,Account Access,Web Portal,63,Closed,false,false,4,true
+522,TKT-000522,20,4940,9/22/2024,Low,Account Access,Email,117,Resolved,true,false,4,true
+523,TKT-000523,85,1165,1/4/2024,High,Bug Report,Chat,309,Open,false,true,2,true
+524,TKT-000524,36,4065,3/6/2024,Medium,Technical Issue,Phone,250,Closed,true,false,4,false
+525,TKT-000525,173,4891,7/13/2026,High,Account Access,Email,230,Open,true,false,4,true
+526,TKT-000526,176,3017,7/27/2024,Critical,Billing,Email,477,Closed,false,true,2,false
+527,TKT-000527,16,296,2/7/2026,Low,Billing,Phone,122,Resolved,false,true,2,true
+528,TKT-000528,169,1085,9/10/2024,Critical,Feature Request,Phone,370,In Progress,true,false,4,false
+529,TKT-000529,80,4028,7/20/2026,High,Technical Issue,Chat,337,In Progress,false,true,3,true
+530,TKT-000530,190,2584,12/2/2025,Critical,Billing,Email,353,Closed,true,true,3,false
+531,TKT-000531,171,1006,11/21/2025,High,Technical Issue,Email,204,Closed,true,true,3,false
+532,TKT-000532,117,3110,3/17/2024,Critical,General Inquiry,Chat,470,Closed,false,true,2,false
+533,TKT-000533,126,1559,10/22/2024,Medium,General Inquiry,Phone,181,Resolved,true,false,4,false
+534,TKT-000534,172,3747,3/9/2025,Low,General Inquiry,Email,40,Closed,true,false,5,true
+535,TKT-000535,50,1848,1/11/2024,Low,General Inquiry,Phone,96,Resolved,true,false,5,true
+536,TKT-000536,193,4452,12/6/2026,High,Billing,Email,190,Resolved,true,false,3,false
+537,TKT-000537,100,2147,2/22/2024,Medium,Technical Issue,Phone,93,Resolved,true,false,3,false
+538,TKT-000538,84,4052,12/28/2025,Critical,Technical Issue,Web Portal,476,Open,false,true,2,false
+539,TKT-000539,165,2570,2/5/2024,Low,Account Access,Phone,132,Closed,true,false,5,true
+540,TKT-000540,155,3158,2/9/2025,High,Feature Request,Email,400,Resolved,false,true,2,false
+541,TKT-000541,187,767,12/30/2025,Low,General Inquiry,Email,68,Resolved,true,false,5,true
+542,TKT-000542,142,1855,5/3/2024,High,Bug Report,Email,235,Closed,true,false,4,false
+543,TKT-000543,91,1557,12/16/2026,Medium,Feature Request,Phone,190,Open,false,false,4,true
+544,TKT-000544,127,3844,6/8/2024,Critical,Billing,Email,437,Closed,false,false,3,false
+545,TKT-000545,109,1438,1/11/2024,Critical,Feature Request,Web Portal,443,Closed,true,false,4,false
+546,TKT-000546,10,4217,2/6/2024,Medium,Technical Issue,Email,94,Open,true,false,5,true
+547,TKT-000547,46,4848,1/24/2025,Medium,Account Access,Phone,59,Closed,true,true,4,true
+548,TKT-000548,193,377,2/5/2024,Medium,Feature Request,Email,99,Resolved,true,false,5,true
+549,TKT-000549,57,196,10/21/2026,Critical,Technical Issue,Chat,224,Open,true,false,4,false
+550,TKT-000550,82,2966,12/18/2025,High,Billing,Chat,301,Closed,false,false,4,true
+551,TKT-000551,86,3664,9/25/2025,Low,Account Access,Email,22,Closed,true,false,5,true
+552,TKT-000552,26,4982,8/22/2026,High,Technical Issue,Chat,302,Pending Customer,false,true,2,false
+553,TKT-000553,117,2989,11/24/2024,Medium,Billing,Chat,185,Closed,true,false,5,true
+554,TKT-000554,7,1829,8/27/2026,Medium,Feature Request,Web Portal,107,Closed,true,false,5,true
+555,TKT-000555,189,702,7/6/2026,High,Technical Issue,Email,345,Resolved,true,true,4,true
+556,TKT-000556,76,3563,10/7/2026,Medium,General Inquiry,Email,92,Resolved,true,false,4,false
+557,TKT-000557,192,175,4/27/2025,High,Technical Issue,Phone,193,Closed,true,true,3,false
+558,TKT-000558,180,2955,1/31/2025,Low,Account Access,Web Portal,88,Closed,true,true,3,true
+559,TKT-000559,199,3703,4/24/2025,High,Account Access,Phone,376,Resolved,false,true,2,false
+560,TKT-000560,80,94,6/1/2025,Critical,Account Access,Email,497,In Progress,false,false,3,false
+561,TKT-000561,151,4673,11/20/2026,Critical,General Inquiry,Phone,261,Closed,false,true,3,false
+562,TKT-000562,51,1555,6/6/2026,High,Technical Issue,Chat,384,Resolved,true,false,5,true
+563,TKT-000563,140,1328,8/18/2026,High,Billing,Phone,142,Open,true,false,4,false
+564,TKT-000564,67,1178,3/31/2025,Low,Technical Issue,Phone,139,Resolved,true,false,5,true
+565,TKT-000565,69,563,10/21/2025,High,Technical Issue,Social Media,290,Pending Customer,true,true,3,false
+566,TKT-000566,142,1535,9/29/2025,High,Bug Report,Email,194,Resolved,true,true,3,false
+567,TKT-000567,194,2874,10/26/2026,High,Feature Request,Chat,254,In Progress,true,false,3,false
+568,TKT-000568,125,999,5/20/2026,Medium,Feature Request,Email,223,Closed,false,false,3,false
+569,TKT-000569,149,2654,1/31/2025,Critical,Account Access,Chat,398,Resolved,false,false,3,false
+570,TKT-000570,151,3450,1/24/2024,Low,Account Access,Web Portal,80,Resolved,true,false,4,true
+571,TKT-000571,183,519,10/27/2026,High,Bug Report,Chat,294,Closed,true,false,4,false
+572,TKT-000572,162,2024,1/12/2026,Critical,General Inquiry,Email,461,Pending Customer,false,true,2,false
+573,TKT-000573,41,791,4/26/2025,Medium,General Inquiry,Chat,245,Open,true,false,4,true
+574,TKT-000574,107,2642,5/27/2024,Medium,Account Access,Web Portal,134,Open,true,false,4,false
+575,TKT-000575,139,2673,7/29/2025,Critical,Billing,Web Portal,387,Pending Customer,false,true,2,false
+576,TKT-000576,9,4674,11/20/2024,Low,Account Access,Web Portal,36,Closed,true,false,5,true
+577,TKT-000577,75,2881,2/18/2024,High,Billing,Web Portal,294,Resolved,false,true,2,false
+578,TKT-000578,29,3651,5/13/2024,Medium,Account Access,Chat,122,In Progress,true,false,5,true
+579,TKT-000579,21,26,8/24/2026,High,Technical Issue,Email,339,Closed,false,false,3,false
+580,TKT-000580,79,4762,11/10/2025,Low,Feature Request,Email,64,In Progress,true,false,4,true
+581,TKT-000581,22,182,5/13/2024,High,Billing,Email,257,Resolved,true,true,4,true
+582,TKT-000582,128,1362,8/6/2025,High,Technical Issue,Phone,264,Resolved,true,false,5,true
+583,TKT-000583,135,1649,8/19/2026,Medium,Technical Issue,Chat,78,Open,true,true,4,false
+584,TKT-000584,59,2845,1/26/2025,Low,Account Access,Phone,107,Resolved,true,true,4,true
+585,TKT-000585,23,284,12/13/2024,Low,Account Access,Chat,23,Closed,true,false,4,true
+586,TKT-000586,149,959,1/4/2026,Critical,Technical Issue,Email,193,Resolved,true,true,3,false
+587,TKT-000587,105,1679,9/22/2025,Low,Account Access,Email,34,Open,true,false,5,true
+588,TKT-000588,156,3923,9/30/2025,High,General Inquiry,Phone,373,Closed,false,true,3,false
+589,TKT-000589,110,4672,8/30/2026,Low,Account Access,Email,26,In Progress,true,false,3,false
+590,TKT-000590,151,4045,12/7/2026,Medium,Account Access,Phone,202,Resolved,true,false,4,true
+591,TKT-000591,103,3121,2/13/2026,High,Billing,Email,227,Closed,true,false,5,true
+592,TKT-000592,160,1322,8/4/2025,High,Billing,Email,336,Pending Customer,false,false,3,false
+593,TKT-000593,18,1177,12/10/2026,Medium,Technical Issue,Email,199,Open,true,false,5,true
+594,TKT-000594,38,3488,6/24/2026,High,Technical Issue,Phone,364,Resolved,false,false,4,true
+595,TKT-000595,158,1681,4/13/2026,High,Technical Issue,Web Portal,352,Open,false,true,2,false
+596,TKT-000596,87,579,4/27/2026,Medium,Billing,Chat,109,Resolved,false,false,3,false
+597,TKT-000597,109,410,12/18/2025,Medium,Billing,Email,137,Open,true,false,5,true
+598,TKT-000598,30,2127,4/17/2026,High,Technical Issue,Chat,134,Resolved,true,true,3,false
+599,TKT-000599,115,1666,8/17/2024,Critical,Technical Issue,Phone,273,Resolved,false,false,3,false
+600,TKT-000600,10,3246,5/10/2025,Critical,Account Access,Chat,262,Open,false,true,2,false
+601,TKT-000601,162,4868,4/18/2025,Critical,General Inquiry,Email,435,Pending Customer,false,false,3,false
+602,TKT-000602,161,185,11/2/2026,Medium,Feature Request,Web Portal,99,Open,true,false,5,true
+603,TKT-000603,117,676,7/27/2026,Medium,Bug Report,Email,61,Resolved,true,false,4,false
+604,TKT-000604,94,910,11/15/2026,Low,Technical Issue,Email,78,Closed,true,false,4,false
+605,TKT-000605,168,1819,7/6/2025,Critical,Bug Report,Email,501,Closed,false,true,2,false
+606,TKT-000606,48,2019,6/21/2024,Medium,Technical Issue,Email,106,Resolved,true,false,4,false
+607,TKT-000607,71,3318,7/27/2024,High,Bug Report,Email,272,Resolved,true,false,4,false
+608,TKT-000608,111,1369,7/20/2026,Critical,Technical Issue,Email,424,Open,false,false,3,false
+609,TKT-000609,195,2477,10/5/2024,High,Technical Issue,Email,273,Resolved,true,false,4,false
+610,TKT-000610,95,3131,6/24/2024,High,Technical Issue,Chat,202,Open,true,false,4,false
+611,TKT-000611,159,2324,1/27/2025,Low,Technical Issue,Email,33,Closed,true,false,4,false
+612,TKT-000612,128,3312,4/19/2026,High,General Inquiry,Phone,344,Closed,false,false,3,false
+613,TKT-000613,199,4144,8/9/2025,High,Account Access,Email,132,Open,true,true,3,false
+614,TKT-000614,30,2770,5/17/2024,Low,Feature Request,Email,97,Closed,true,false,4,true
+615,TKT-000615,145,1068,7/17/2025,Medium,Bug Report,Social Media,219,In Progress,true,false,4,false
+616,TKT-000616,33,4207,11/5/2024,Medium,Billing,Web Portal,146,Resolved,true,false,4,true
+617,TKT-000617,163,3412,5/24/2024,Medium,Bug Report,Phone,247,Closed,true,true,4,true
+618,TKT-000618,116,4801,7/26/2024,High,General Inquiry,Web Portal,340,Pending Customer,false,false,4,true
+619,TKT-000619,80,4033,8/1/2026,Medium,General Inquiry,Chat,61,Resolved,true,false,4,true
+620,TKT-000620,14,4475,11/16/2025,Medium,Billing,Phone,154,Open,false,true,2,false
+621,TKT-000621,91,4038,3/24/2024,Low,General Inquiry,Web Portal,148,Closed,true,false,4,false
+622,TKT-000622,105,2494,10/28/2025,High,Account Access,Email,159,Resolved,true,true,4,false
+623,TKT-000623,134,3641,2/4/2024,High,Account Access,Web Portal,157,Pending Customer,true,true,3,false
+624,TKT-000624,199,4582,2/16/2025,Critical,Feature Request,Web Portal,202,Closed,true,true,4,false
+625,TKT-000625,88,2502,1/15/2026,Critical,Account Access,Chat,316,Open,true,false,4,false
+626,TKT-000626,69,3666,2/24/2025,Critical,Technical Issue,Phone,460,Open,false,true,2,false
+627,TKT-000627,98,3716,8/14/2025,Medium,Feature Request,Chat,113,Open,true,false,5,true
+628,TKT-000628,113,2302,5/6/2026,High,Bug Report,Chat,318,Closed,false,false,3,false
+629,TKT-000629,195,4022,11/11/2025,Medium,Account Access,Social Media,207,Closed,false,false,3,false
+630,TKT-000630,165,3354,3/16/2025,High,Technical Issue,Email,313,Closed,false,false,3,false
+631,TKT-000631,80,253,1/19/2024,Critical,Feature Request,Social Media,497,Closed,false,false,4,true
+632,TKT-000632,12,2219,5/19/2024,Low,Feature Request,Phone,103,Pending Customer,true,false,4,true
+633,TKT-000633,95,3180,12/22/2026,Medium,General Inquiry,Chat,192,Resolved,false,false,3,false
+634,TKT-000634,61,85,12/20/2024,Low,Account Access,Chat,117,Pending Customer,true,false,4,true
+635,TKT-000635,78,2663,4/18/2025,Low,Account Access,Web Portal,36,In Progress,true,false,5,true
+636,TKT-000636,58,4291,3/31/2025,Medium,Technical Issue,Web Portal,127,Closed,false,false,4,false
+637,TKT-000637,27,5000,12/15/2024,High,Feature Request,Phone,255,Resolved,true,false,4,false
+638,TKT-000638,38,3828,1/20/2026,Critical,Technical Issue,Phone,481,Pending Customer,false,true,3,false
+639,TKT-000639,160,1888,9/8/2024,High,General Inquiry,Phone,390,Closed,false,true,2,false
+640,TKT-000640,188,3138,1/18/2024,Medium,Technical Issue,Chat,217,Pending Customer,true,false,5,true
+641,TKT-000641,169,4723,2/29/2024,High,General Inquiry,Email,142,In Progress,true,false,4,false
+642,TKT-000642,102,3470,10/21/2025,High,Account Access,Phone,329,Resolved,false,true,3,true
+643,TKT-000643,3,3543,11/16/2025,Medium,Technical Issue,Web Portal,250,Open,true,false,4,false
+644,TKT-000644,165,589,12/11/2025,Medium,Technical Issue,Phone,119,In Progress,true,false,4,true
+645,TKT-000645,75,2760,11/5/2024,Low,Account Access,Web Portal,64,Pending Customer,true,false,4,true
+646,TKT-000646,74,329,1/1/2025,Critical,Billing,Email,446,Closed,false,false,3,false
+647,TKT-000647,87,3133,10/16/2026,Medium,Billing,Email,109,Closed,false,true,2,false
+648,TKT-000648,9,2291,12/19/2026,Critical,Billing,Phone,271,Closed,false,true,2,false
+649,TKT-000649,152,437,5/6/2024,Critical,Account Access,Email,315,Resolved,false,true,3,false
+650,TKT-000650,7,3400,5/1/2025,High,Account Access,Chat,223,Closed,true,false,5,true
+651,TKT-000651,157,1885,8/20/2025,Critical,Technical Issue,Email,202,Closed,true,true,3,false
+652,TKT-000652,63,2791,7/5/2024,Critical,Account Access,Phone,388,Closed,false,false,3,false
+653,TKT-000653,99,889,3/9/2026,Medium,Account Access,Chat,193,Open,true,false,4,false
+654,TKT-000654,36,1679,6/13/2025,Medium,General Inquiry,Phone,193,Resolved,true,false,4,true
+655,TKT-000655,170,3172,7/20/2026,Medium,General Inquiry,Web Portal,238,Closed,true,false,5,true
+656,TKT-000656,176,3204,10/4/2024,Medium,Billing,Email,209,Resolved,true,true,3,false
+657,TKT-000657,162,2712,1/4/2024,High,Bug Report,Web Portal,356,Resolved,false,false,3,false
+658,TKT-000658,58,3622,4/16/2025,Critical,Feature Request,Email,213,Resolved,true,false,4,false
+659,TKT-000659,163,4842,1/6/2026,Medium,Account Access,Phone,216,Closed,true,false,5,true
+660,TKT-000660,143,1511,6/10/2025,High,General Inquiry,Email,270,Closed,true,false,3,false
+661,TKT-000661,35,2796,9/5/2024,Low,Bug Report,Email,76,Closed,true,false,4,true
+662,TKT-000662,94,283,11/22/2024,Medium,General Inquiry,Phone,237,Resolved,true,false,4,false
+663,TKT-000663,197,2032,2/12/2025,Medium,Technical Issue,Phone,130,Closed,true,true,3,false
+664,TKT-000664,190,1367,10/13/2026,Critical,Technical Issue,Chat,478,Resolved,false,true,2,false
+665,TKT-000665,30,3782,9/17/2024,Low,Technical Issue,Email,102,Closed,true,false,5,true
+666,TKT-000666,30,2892,6/10/2025,Low,Billing,Chat,90,Closed,true,false,5,true
+667,TKT-000667,118,2495,11/3/2024,Critical,Billing,Email,332,Closed,false,true,2,false
+668,TKT-000668,183,2254,5/19/2026,Critical,General Inquiry,Email,335,Open,false,true,2,false
+669,TKT-000669,16,4653,9/30/2025,Medium,Bug Report,Web Portal,123,In Progress,true,true,3,false
+670,TKT-000670,118,4124,5/20/2025,Low,Billing,Email,138,Resolved,true,false,5,true
+671,TKT-000671,83,912,11/3/2025,Low,Billing,Email,107,Closed,true,false,4,true
+672,TKT-000672,116,3629,7/7/2025,High,Technical Issue,Chat,280,Pending Customer,false,true,3,false
+673,TKT-000673,85,968,2/1/2025,High,General Inquiry,Chat,138,Closed,true,false,5,true
+674,TKT-000674,181,3770,2/19/2024,Medium,Technical Issue,Email,250,Open,true,false,5,true
+675,TKT-000675,135,1632,9/21/2026,High,Account Access,Web Portal,224,Resolved,true,true,3,false
+676,TKT-000676,122,4666,11/13/2025,Critical,General Inquiry,Email,205,In Progress,true,false,4,false
+677,TKT-000677,195,4375,6/2/2026,Critical,Account Access,Phone,187,Open,true,false,4,false
+678,TKT-000678,123,1057,9/25/2024,High,Technical Issue,Phone,270,Resolved,true,false,5,true
+679,TKT-000679,181,4587,8/14/2026,High,Technical Issue,Phone,225,Closed,true,false,4,true
+680,TKT-000680,166,977,3/23/2025,Medium,Billing,Email,57,Resolved,true,false,5,true
+681,TKT-000681,69,2158,6/15/2026,High,Technical Issue,Email,337,Resolved,false,true,2,false
+682,TKT-000682,11,631,11/12/2026,Low,Technical Issue,Chat,134,Closed,true,false,4,true
+683,TKT-000683,130,3988,10/21/2025,High,General Inquiry,Social Media,198,Closed,true,true,3,false
+684,TKT-000684,80,4859,12/19/2025,Low,Technical Issue,Chat,79,In Progress,true,true,4,true
+685,TKT-000685,142,646,5/3/2024,High,General Inquiry,Email,234,Closed,true,false,4,true
+686,TKT-000686,116,3584,7/12/2025,Medium,Billing,Phone,92,Closed,true,false,5,true
+687,TKT-000687,12,3222,3/22/2024,High,Technical Issue,Chat,182,Resolved,true,true,3,false
+688,TKT-000688,56,2525,2/18/2026,High,Feature Request,Web Portal,157,Closed,true,false,4,false
+689,TKT-000689,11,177,4/29/2026,High,Account Access,Email,167,Closed,true,true,3,false
+690,TKT-000690,124,778,8/3/2024,Low,Billing,Chat,42,Closed,true,false,5,true
+691,TKT-000691,36,28,4/1/2026,Critical,Technical Issue,Email,296,In Progress,false,true,2,false
+692,TKT-000692,165,2966,1/16/2024,Low,General Inquiry,Phone,20,Resolved,true,false,4,true
+693,TKT-000693,127,3767,1/10/2024,Medium,Technical Issue,Social Media,130,Closed,true,false,4,true
+694,TKT-000694,150,4798,11/3/2026,High,Feature Request,Chat,176,Resolved,true,false,5,true
+695,TKT-000695,153,3133,1/15/2025,High,Feature Request,Chat,168,Closed,true,true,3,false
+696,TKT-000696,122,1980,8/20/2026,Low,Feature Request,Phone,29,Resolved,false,false,4,true
+697,TKT-000697,13,4847,4/24/2026,High,Technical Issue,Chat,187,Resolved,true,false,5,true
+698,TKT-000698,81,67,1/30/2026,Low,General Inquiry,Chat,61,Pending Customer,true,false,4,true
+699,TKT-000699,192,1073,8/26/2024,High,General Inquiry,Phone,365,Closed,false,true,2,true
+700,TKT-000700,140,2565,3/31/2026,High,Billing,Web Portal,198,Resolved,true,false,4,true
+701,TKT-000701,132,3692,7/21/2026,Medium,Billing,Email,86,Closed,true,true,4,true
+702,TKT-000702,67,141,11/11/2024,High,General Inquiry,Email,265,Closed,true,true,3,true
+703,TKT-000703,176,1920,4/2/2024,High,Technical Issue,Web Portal,393,Closed,false,false,4,true
+704,TKT-000704,127,3368,11/3/2025,Low,Billing,Email,145,Resolved,true,false,5,true
+705,TKT-000705,101,563,7/9/2024,Medium,Account Access,Phone,67,Open,true,false,4,true
+706,TKT-000706,49,4974,11/11/2024,Medium,Technical Issue,Email,145,Resolved,true,true,3,false
+707,TKT-000707,107,572,3/23/2026,Critical,Technical Issue,Phone,519,Closed,false,true,3,false
+708,TKT-000708,93,1767,8/30/2025,High,Account Access,Email,151,Resolved,true,true,3,false
+709,TKT-000709,134,3730,1/15/2025,Low,Feature Request,Phone,75,In Progress,true,false,4,false
+710,TKT-000710,137,3516,8/2/2025,Critical,Feature Request,Email,416,Closed,false,true,3,false
+711,TKT-000711,51,1055,9/13/2026,Critical,Technical Issue,Chat,388,Open,true,false,5,true
+712,TKT-000712,129,1198,9/10/2025,Low,Billing,Email,62,Closed,true,false,4,true
+713,TKT-000713,106,3395,3/28/2025,High,Feature Request,Email,232,Closed,true,false,4,true
+714,TKT-000714,124,4407,3/13/2025,Medium,Billing,Social Media,167,Closed,false,false,3,true
+715,TKT-000715,191,4993,11/20/2025,Critical,Billing,Social Media,488,Open,false,true,3,false
+716,TKT-000716,127,3793,3/27/2024,Critical,Technical Issue,Email,390,Resolved,true,false,3,false
+717,TKT-000717,190,4519,7/29/2025,High,Technical Issue,Chat,372,Resolved,false,false,4,true
+718,TKT-000718,51,3169,9/21/2024,Medium,Technical Issue,Email,122,Closed,true,false,4,false
+719,TKT-000719,182,1455,7/11/2026,High,Account Access,Email,204,Resolved,true,false,4,false
+720,TKT-000720,114,1600,10/31/2026,Medium,Technical Issue,Email,121,Closed,true,false,4,false
+721,TKT-000721,124,3021,11/2/2024,Medium,Feature Request,Phone,62,Resolved,true,false,5,true
+722,TKT-000722,141,923,5/8/2025,High,General Inquiry,Phone,238,Closed,true,false,4,false
+723,TKT-000723,123,3108,6/28/2024,Low,Bug Report,Phone,32,Resolved,true,false,4,false
+724,TKT-000724,31,2056,8/29/2026,Critical,Technical Issue,Email,355,Closed,false,true,2,false
+725,TKT-000725,141,1222,9/11/2024,High,Account Access,Email,293,In Progress,true,false,4,false
+726,TKT-000726,41,538,6/26/2024,Medium,Technical Issue,Social Media,121,Resolved,true,true,4,true
+727,TKT-000727,27,2218,11/25/2025,Medium,Account Access,Email,152,Pending Customer,true,false,5,true
+728,TKT-000728,74,821,5/13/2025,Low,Billing,Phone,41,Open,true,false,4,true
+729,TKT-000729,156,2603,9/5/2024,Critical,Account Access,Email,225,Closed,true,true,3,false
+730,TKT-000730,66,4783,1/26/2025,High,Account Access,Web Portal,395,Resolved,false,true,2,false
+731,TKT-000731,139,4573,1/24/2025,Low,Feature Request,Email,67,Closed,true,false,4,true
+732,TKT-000732,115,1549,6/12/2024,Low,Billing,Chat,109,Closed,true,false,4,false
+733,TKT-000733,76,2711,1/11/2024,Critical,Technical Issue,Social Media,435,Open,false,false,3,false
+734,TKT-000734,180,943,6/20/2025,Medium,General Inquiry,Chat,257,Resolved,true,false,5,true
+735,TKT-000735,48,989,4/15/2026,Critical,Feature Request,Email,233,Resolved,true,false,4,false
+736,TKT-000736,81,4398,9/24/2024,Critical,Bug Report,Phone,360,Closed,false,false,3,false
+737,TKT-000737,66,3827,1/1/2024,Critical,Billing,Phone,372,In Progress,false,false,3,false
+738,TKT-000738,6,4701,12/20/2025,Medium,General Inquiry,Social Media,176,In Progress,true,false,4,false
+739,TKT-000739,154,4948,4/9/2024,Low,Account Access,Phone,116,In Progress,true,false,5,true
+740,TKT-000740,174,1019,5/19/2024,High,Billing,Chat,372,Resolved,false,false,4,true
+741,TKT-000741,134,3231,10/19/2024,Low,Feature Request,Email,50,Resolved,true,false,5,true
+742,TKT-000742,164,3393,4/23/2026,Medium,Feature Request,Phone,231,Closed,true,false,4,false
+743,TKT-000743,194,1705,6/26/2026,Critical,General Inquiry,Web Portal,183,Resolved,true,false,5,true
+744,TKT-000744,184,1073,5/25/2026,Medium,Account Access,Web Portal,192,Resolved,true,false,5,true
+745,TKT-000745,129,4558,3/8/2026,Critical,Technical Issue,Email,323,Resolved,false,true,2,false
+746,TKT-000746,189,4489,4/23/2026,High,Technical Issue,Phone,400,Resolved,false,false,3,false
+747,TKT-000747,27,83,9/16/2025,High,General Inquiry,Phone,314,Closed,false,false,4,true
+748,TKT-000748,124,2727,5/1/2024,High,Bug Report,Chat,285,In Progress,true,false,4,false
+749,TKT-000749,40,3532,2/8/2024,High,Account Access,Phone,297,Closed,true,true,3,false
+750,TKT-000750,95,3561,12/22/2025,Low,Technical Issue,Chat,98,Closed,true,false,4,true
+751,TKT-000751,26,3662,12/4/2025,High,Account Access,Email,272,Closed,true,false,5,true
+752,TKT-000752,177,501,3/29/2025,Medium,Billing,Phone,114,Open,true,false,4,true
+753,TKT-000753,10,1218,11/17/2025,Medium,Account Access,Phone,157,Closed,true,false,4,true
+754,TKT-000754,121,2570,11/2/2024,High,Billing,Email,361,Closed,false,true,2,false
+755,TKT-000755,194,2424,5/27/2024,Critical,Feature Request,Chat,389,In Progress,false,false,3,false
+756,TKT-000756,163,1012,11/22/2024,Medium,Billing,Web Portal,238,Closed,true,false,4,false
+757,TKT-000757,102,546,11/24/2026,Medium,Billing,Email,64,Resolved,true,false,4,false
+758,TKT-000758,137,1968,11/6/2025,Low,General Inquiry,Chat,93,Closed,true,false,4,true
+759,TKT-000759,147,3386,8/27/2024,High,Technical Issue,Phone,392,Resolved,false,false,4,true
+760,TKT-000760,153,4340,9/1/2024,High,Account Access,Web Portal,255,Closed,true,false,3,false
+761,TKT-000761,181,1551,10/19/2025,Low,General Inquiry,Web Portal,125,Resolved,true,false,3,false
+762,TKT-000762,175,4513,2/12/2025,Medium,Account Access,Phone,90,Closed,true,false,4,false
+763,TKT-000763,23,790,11/12/2025,High,Technical Issue,Social Media,321,Resolved,false,false,3,false
+764,TKT-000764,38,259,3/10/2024,High,Bug Report,Social Media,375,Resolved,false,true,3,false
+765,TKT-000765,40,3203,9/19/2026,High,Technical Issue,Web Portal,392,Closed,false,true,2,false
+766,TKT-000766,166,1159,4/20/2026,Medium,Bug Report,Chat,99,Pending Customer,true,true,3,false
+767,TKT-000767,41,1820,3/15/2026,Medium,Billing,Phone,191,Resolved,true,false,5,true
+768,TKT-000768,119,1343,3/7/2024,High,Feature Request,Email,260,Open,true,false,3,false
+769,TKT-000769,122,2374,9/9/2024,High,Technical Issue,Phone,233,Closed,true,false,4,false
+770,TKT-000770,199,2144,3/22/2025,Medium,General Inquiry,Phone,53,Closed,true,false,4,false
+771,TKT-000771,113,1779,10/2/2026,Medium,Technical Issue,Email,78,Open,true,false,5,true
+772,TKT-000772,65,2126,12/20/2024,Medium,Billing,Chat,227,Open,false,false,3,false
+773,TKT-000773,88,4405,10/25/2025,High,Billing,Web Portal,229,Closed,true,false,5,true
+774,TKT-000774,74,180,4/3/2025,High,Technical Issue,Phone,160,Resolved,true,false,5,true
+775,TKT-000775,30,1924,2/23/2026,Medium,Technical Issue,Email,128,Closed,true,false,4,false
+776,TKT-000776,122,3115,10/29/2024,Medium,Account Access,Phone,173,Closed,false,false,4,true
+777,TKT-000777,153,3296,8/5/2025,Low,Account Access,Chat,30,Open,true,false,4,true
+778,TKT-000778,160,4567,3/22/2024,Low,General Inquiry,Phone,107,Open,true,false,5,true
+779,TKT-000779,107,2845,2/26/2026,Medium,Feature Request,Phone,255,Resolved,true,false,4,false
+780,TKT-000780,190,1494,12/28/2026,Medium,Bug Report,Email,52,Pending Customer,true,false,4,false
+781,TKT-000781,12,15,8/30/2024,Medium,Billing,Email,140,Closed,false,false,3,false
+782,TKT-000782,45,4927,7/22/2025,Critical,Billing,Email,384,Pending Customer,false,false,3,false
+783,TKT-000783,13,582,10/26/2024,Medium,Account Access,Phone,59,Resolved,true,false,5,true
+784,TKT-000784,168,4862,10/15/2026,High,Billing,Email,156,Closed,true,false,4,false
+785,TKT-000785,7,1877,6/24/2025,High,Technical Issue,Phone,352,Closed,false,false,3,true
+786,TKT-000786,154,4872,3/28/2025,Medium,Bug Report,Phone,239,Resolved,true,false,4,true
+787,TKT-000787,183,4353,10/9/2025,High,Technical Issue,Email,221,Open,true,false,4,false
+788,TKT-000788,131,1867,11/20/2025,High,Billing,Phone,271,Pending Customer,true,false,4,false
+789,TKT-000789,122,2178,10/27/2026,Medium,Technical Issue,Social Media,229,Resolved,false,false,4,true
+790,TKT-000790,97,3166,11/29/2025,Critical,Billing,Email,508,Resolved,false,false,3,false
+791,TKT-000791,70,2274,6/8/2024,Low,Feature Request,Email,61,Resolved,true,false,4,true
+792,TKT-000792,39,3876,10/31/2026,High,Technical Issue,Email,209,Closed,true,false,5,true
+793,TKT-000793,80,2990,2/29/2024,High,Technical Issue,Phone,172,Open,true,false,5,true
+794,TKT-000794,197,2595,7/20/2024,Medium,Billing,Email,169,In Progress,true,false,4,false
+795,TKT-000795,89,3397,3/30/2026,Low,Feature Request,Phone,52,Resolved,true,false,4,true
+796,TKT-000796,147,1100,11/1/2025,Medium,Feature Request,Web Portal,135,Resolved,true,true,3,false
+797,TKT-000797,50,4169,9/19/2025,High,General Inquiry,Web Portal,385,Closed,false,false,4,true
+798,TKT-000798,19,2357,12/25/2024,Medium,Bug Report,Chat,260,Pending Customer,true,false,5,true
+799,TKT-000799,84,1769,3/8/2024,Medium,Billing,Email,181,Open,true,true,3,false
+800,TKT-000800,33,2449,7/29/2025,Medium,Technical Issue,Phone,163,Pending Customer,true,false,5,true
+801,TKT-000801,175,2411,2/18/2025,High,Technical Issue,Chat,285,Resolved,true,false,4,false
+802,TKT-000802,190,4574,9/9/2024,Medium,Account Access,Email,97,Resolved,false,true,3,true
+803,TKT-000803,52,3482,9/22/2024,Medium,Technical Issue,Chat,70,Open,true,false,4,true
+804,TKT-000804,132,318,3/2/2024,Low,Account Access,Chat,132,Resolved,true,false,5,true
+805,TKT-000805,76,3516,9/19/2026,High,Bug Report,Phone,206,Resolved,true,false,4,false
+806,TKT-000806,47,2048,1/18/2025,High,Technical Issue,Email,360,Closed,false,false,4,true
+807,TKT-000807,128,3974,1/21/2024,Low,Account Access,Chat,117,Closed,false,false,3,false
+808,TKT-000808,103,43,7/1/2026,Low,Account Access,Web Portal,120,In Progress,true,false,5,true
+809,TKT-000809,133,820,8/18/2024,Critical,Technical Issue,Phone,511,Resolved,true,true,3,false
+810,TKT-000810,106,3409,9/21/2026,High,Feature Request,Web Portal,139,Open,true,false,4,false
+811,TKT-000811,52,440,8/13/2024,High,Technical Issue,Phone,142,Open,true,false,4,false
+812,TKT-000812,12,211,6/4/2024,High,General Inquiry,Email,198,Open,true,false,4,false
+813,TKT-000813,88,3575,11/3/2025,Medium,General Inquiry,Web Portal,226,Closed,false,true,2,false
+814,TKT-000814,74,2241,5/3/2024,Medium,Account Access,Chat,127,Resolved,false,false,3,false
+815,TKT-000815,36,1965,6/10/2025,Medium,Technical Issue,Email,45,Open,false,true,2,false
+816,TKT-000816,84,1793,8/25/2025,Medium,Account Access,Chat,188,Closed,true,false,3,false
+817,TKT-000817,4,4059,1/22/2024,High,Billing,Chat,147,Resolved,true,false,4,false
+818,TKT-000818,54,4044,1/8/2026,Medium,Billing,Email,188,Resolved,true,true,3,false
+819,TKT-000819,51,2884,5/15/2024,High,General Inquiry,Chat,354,Closed,false,false,3,false
+820,TKT-000820,155,2054,2/4/2026,Medium,Account Access,Chat,73,Closed,true,true,3,false
+821,TKT-000821,139,3179,4/7/2025,High,Feature Request,Phone,164,In Progress,true,false,3,false
+822,TKT-000822,46,2142,12/20/2025,Medium,Account Access,Email,139,Resolved,true,false,4,true
+823,TKT-000823,14,4917,8/28/2025,High,General Inquiry,Email,291,Open,true,true,3,true
+824,TKT-000824,58,107,12/24/2025,Critical,Technical Issue,Email,486,Closed,false,true,3,false
+825,TKT-000825,168,4893,9/13/2025,Medium,Billing,Email,192,Open,true,false,4,false
+826,TKT-000826,91,554,9/15/2025,Low,Technical Issue,Chat,25,Open,true,false,5,true
+827,TKT-000827,156,2637,1/5/2026,High,General Inquiry,Chat,340,Resolved,false,true,2,false
+828,TKT-000828,184,2370,10/8/2025,High,Technical Issue,Phone,250,Resolved,true,true,3,false
+829,TKT-000829,37,3212,10/2/2026,Low,General Inquiry,Chat,103,Pending Customer,true,false,5,true
+830,TKT-000830,106,1785,9/20/2026,High,Technical Issue,Email,362,Resolved,false,false,3,false
+831,TKT-000831,146,3657,10/17/2026,Medium,Technical Issue,Phone,115,Pending Customer,true,true,3,false
+832,TKT-000832,125,2405,1/8/2026,High,Account Access,Phone,398,In Progress,false,false,4,true
+833,TKT-000833,133,2985,5/25/2025,High,Bug Report,Phone,242,Closed,true,false,3,false
+834,TKT-000834,6,1411,1/8/2026,Low,Account Access,Chat,100,Open,true,false,4,true
+835,TKT-000835,163,4045,12/8/2026,Low,Technical Issue,Email,137,Resolved,true,false,5,true
+836,TKT-000836,48,3874,12/21/2026,Medium,Billing,Chat,149,Resolved,true,false,4,false
+837,TKT-000837,140,806,2/25/2024,High,Billing,Web Portal,228,Closed,true,false,4,false
+838,TKT-000838,45,1547,10/20/2025,Low,Billing,Chat,130,Resolved,true,false,4,true
+839,TKT-000839,19,3533,1/6/2024,High,Account Access,Email,205,In Progress,true,false,4,false
+840,TKT-000840,144,4250,10/28/2025,Medium,Billing,Email,110,Resolved,true,true,3,false
+841,TKT-000841,147,2717,6/9/2025,Medium,Technical Issue,Email,203,In Progress,true,false,5,true
+842,TKT-000842,186,4325,4/10/2024,Medium,Technical Issue,Chat,198,Closed,false,false,4,true
+843,TKT-000843,171,785,12/8/2024,Critical,Account Access,Phone,454,Open,true,true,3,false
+844,TKT-000844,44,3046,10/27/2024,Medium,Account Access,Phone,171,In Progress,true,false,4,false
+845,TKT-000845,131,1741,2/13/2026,High,Billing,Social Media,350,Resolved,false,true,2,false
+846,TKT-000846,176,3449,9/15/2026,Low,Feature Request,Web Portal,64,Resolved,true,false,5,true
+847,TKT-000847,51,2673,11/1/2024,High,Bug Report,Web Portal,295,Pending Customer,true,true,3,false
+848,TKT-000848,162,3764,9/13/2025,Medium,Technical Issue,Chat,72,Resolved,true,false,4,false
+849,TKT-000849,28,3108,12/29/2024,Medium,Technical Issue,Email,47,Closed,true,true,4,true
+850,TKT-000850,181,4764,6/9/2026,Medium,Account Access,Phone,214,Open,true,false,4,true
+851,TKT-000851,165,4797,1/29/2024,Critical,Technical Issue,Web Portal,229,Resolved,true,true,3,false
+852,TKT-000852,124,4212,9/7/2026,Medium,Account Access,Web Portal,194,Resolved,true,true,4,true
+853,TKT-000853,100,3557,3/18/2024,Critical,Technical Issue,Web Portal,246,Resolved,false,true,2,false
+854,TKT-000854,151,1412,8/31/2026,Low,Feature Request,Chat,114,Closed,true,false,5,true
+855,TKT-000855,77,2399,8/31/2026,Low,Feature Request,Phone,48,Closed,true,false,5,true
+856,TKT-000856,78,3153,8/23/2025,Medium,Technical Issue,Chat,240,Resolved,false,false,3,false
+857,TKT-000857,103,1750,8/21/2025,Medium,Billing,Chat,138,Resolved,true,false,4,true
+858,TKT-000858,53,3556,1/1/2026,High,General Inquiry,Phone,170,Open,true,false,4,true
+859,TKT-000859,187,4589,8/31/2024,Medium,General Inquiry,Phone,157,Open,true,true,3,false
+860,TKT-000860,29,4636,8/18/2025,Critical,Technical Issue,Chat,387,Closed,true,false,4,true
+861,TKT-000861,6,2940,5/30/2024,Critical,Technical Issue,Chat,405,Open,true,true,3,false
+862,TKT-000862,110,4925,9/5/2024,High,Technical Issue,Chat,242,Closed,true,false,4,true
+863,TKT-000863,166,3834,9/24/2026,Low,Technical Issue,Chat,75,Closed,true,false,4,false
+864,TKT-000864,162,902,12/18/2026,Medium,Technical Issue,Social Media,73,Closed,false,false,4,true
+865,TKT-000865,40,2863,3/22/2026,Medium,General Inquiry,Chat,175,Closed,true,false,4,true
+866,TKT-000866,179,2720,9/19/2024,Medium,Bug Report,Email,162,Closed,true,false,4,false
+867,TKT-000867,18,2245,12/20/2026,Medium,Technical Issue,Chat,70,In Progress,true,false,4,true
+868,TKT-000868,96,1940,11/11/2025,High,Technical Issue,Web Portal,363,Closed,false,true,3,true
+869,TKT-000869,103,4682,3/29/2026,Low,Technical Issue,Email,26,Open,true,false,5,true
+870,TKT-000870,166,167,12/9/2026,High,Account Access,Phone,375,Closed,false,true,2,false
+871,TKT-000871,25,297,3/15/2026,Medium,Technical Issue,Social Media,127,Closed,true,false,5,true
+872,TKT-000872,153,986,10/18/2025,High,Billing,Chat,213,Closed,true,true,3,false
+873,TKT-000873,10,3271,4/14/2025,High,General Inquiry,Phone,350,Resolved,false,true,2,false
+874,TKT-000874,135,2291,3/10/2026,Medium,Billing,Chat,94,Resolved,true,false,4,true
+875,TKT-000875,168,4172,11/13/2026,Low,Feature Request,Phone,26,Resolved,true,true,3,false
+876,TKT-000876,70,1887,11/4/2026,High,Feature Request,Email,364,In Progress,false,false,3,false
+877,TKT-000877,78,4951,1/14/2025,High,General Inquiry,Web Portal,228,Closed,true,true,3,false
+878,TKT-000878,144,1832,4/30/2026,High,Bug Report,Phone,353,Resolved,false,false,2,false
+879,TKT-000879,48,1080,5/22/2026,High,Technical Issue,Email,210,In Progress,true,false,4,true
+880,TKT-000880,91,1952,7/4/2024,High,Bug Report,Web Portal,202,Closed,true,false,5,true
+881,TKT-000881,161,838,5/28/2024,Medium,Bug Report,Phone,200,Closed,true,false,3,false
+882,TKT-000882,95,4180,2/5/2024,Low,Technical Issue,Phone,81,Resolved,true,false,5,true
+883,TKT-000883,71,3365,8/31/2024,High,Billing,Phone,387,Resolved,false,true,2,false
+884,TKT-000884,68,2486,4/28/2025,Medium,Billing,Email,153,Resolved,true,false,4,true
+885,TKT-000885,111,1894,10/25/2024,Medium,Billing,Email,190,Closed,true,false,4,false
+886,TKT-000886,147,4981,11/11/2025,Critical,Bug Report,Phone,388,Closed,true,true,4,false
+887,TKT-000887,88,2398,1/9/2026,High,Feature Request,Web Portal,268,Pending Customer,false,false,3,true
+888,TKT-000888,92,3713,7/6/2024,Medium,Billing,Email,63,Open,true,false,4,false
+889,TKT-000889,120,4361,7/27/2026,High,General Inquiry,Web Portal,382,Resolved,false,false,3,false
+890,TKT-000890,4,1036,7/6/2024,Critical,Account Access,Social Media,369,Resolved,false,false,3,true
+891,TKT-000891,156,2984,9/3/2025,Medium,Technical Issue,Email,109,Closed,true,false,4,false
+892,TKT-000892,175,4306,2/16/2024,High,Bug Report,Web Portal,241,Closed,true,false,5,true
+893,TKT-000893,4,4257,8/20/2026,Critical,Feature Request,Phone,209,Resolved,true,false,4,false
+894,TKT-000894,31,3832,11/27/2024,Critical,General Inquiry,Phone,184,Closed,true,true,4,false
+895,TKT-000895,8,282,5/17/2025,High,Feature Request,Email,212,Closed,true,false,4,false
+896,TKT-000896,173,4499,10/2/2024,High,Account Access,Chat,165,Resolved,true,true,4,false
+897,TKT-000897,103,2869,8/1/2026,High,Technical Issue,Email,239,Resolved,true,false,4,true
+898,TKT-000898,34,2504,2/27/2026,High,Bug Report,Phone,306,Open,false,true,2,false
+899,TKT-000899,42,4673,7/26/2025,High,Technical Issue,Chat,138,Closed,true,false,4,false
+900,TKT-000900,189,4955,10/1/2024,High,Account Access,Email,360,Resolved,false,false,3,false
+901,TKT-000901,115,4250,12/3/2026,Medium,Feature Request,Web Portal,225,Closed,true,false,4,false
+902,TKT-000902,120,1871,1/31/2026,Critical,General Inquiry,Chat,262,Resolved,false,true,2,false
+903,TKT-000903,114,1505,11/4/2024,High,Technical Issue,Social Media,224,Closed,true,false,4,false
+904,TKT-000904,130,3045,8/16/2024,Medium,Billing,Phone,241,Closed,true,false,4,true
+905,TKT-000905,59,1591,1/8/2024,Critical,Account Access,Email,412,Open,false,false,3,false
+906,TKT-000906,156,4489,8/31/2026,Low,Account Access,Chat,23,Open,true,false,4,true
+907,TKT-000907,171,1361,4/23/2025,High,Technical Issue,Web Portal,122,Closed,true,true,3,false
+908,TKT-000908,154,79,10/14/2025,Critical,General Inquiry,Social Media,269,Pending Customer,false,false,2,false
+909,TKT-000909,141,2791,1/19/2024,Medium,Technical Issue,Email,74,Closed,false,true,3,true
+910,TKT-000910,143,2588,2/6/2025,Medium,Technical Issue,Chat,63,Resolved,true,false,4,true
+911,TKT-000911,56,2954,12/17/2026,Medium,Billing,Chat,111,Open,true,false,4,true
+912,TKT-000912,127,4263,8/12/2024,Critical,General Inquiry,Email,212,Closed,true,false,4,false
+913,TKT-000913,36,4472,6/18/2024,Medium,Account Access,Email,231,Open,true,false,5,true
+914,TKT-000914,2,2725,10/1/2025,High,Billing,Email,146,Closed,true,false,4,false
+915,TKT-000915,195,546,2/22/2024,Low,General Inquiry,Web Portal,24,Closed,true,false,3,false
+916,TKT-000916,43,170,8/19/2025,High,Billing,Email,197,Closed,true,false,4,false
+917,TKT-000917,117,1810,10/1/2026,Low,Feature Request,Email,79,Open,true,false,4,true
+918,TKT-000918,197,2030,12/20/2024,Critical,Account Access,Web Portal,186,Resolved,true,false,5,true
+919,TKT-000919,106,2698,4/2/2025,Medium,Technical Issue,Social Media,106,Open,true,false,4,true
+920,TKT-000920,16,2421,5/3/2026,Medium,Account Access,Web Portal,59,Resolved,false,false,3,true
+921,TKT-000921,188,2011,1/6/2026,High,Billing,Chat,352,In Progress,false,false,3,true
+922,TKT-000922,168,3515,2/17/2024,Medium,Account Access,Chat,214,Closed,true,false,4,true
+923,TKT-000923,5,2189,3/27/2024,Low,Technical Issue,Web Portal,106,Closed,true,false,4,false
+924,TKT-000924,80,4517,11/25/2026,High,Bug Report,Phone,278,Closed,true,false,5,true
+925,TKT-000925,17,2447,10/11/2024,Medium,Technical Issue,Phone,125,Closed,false,true,2,false
+926,TKT-000926,160,4931,2/2/2026,Low,Technical Issue,Email,82,In Progress,true,false,5,true
+927,TKT-000927,49,3355,12/24/2024,High,Technical Issue,Email,386,Open,false,false,3,false
+928,TKT-000928,14,193,3/7/2024,High,Feature Request,Email,158,Open,false,true,2,false
+929,TKT-000929,117,2629,7/21/2024,High,Feature Request,Phone,249,Closed,true,false,4,false
+930,TKT-000930,41,1256,7/20/2025,Critical,Technical Issue,Email,394,Pending Customer,false,true,3,false
+931,TKT-000931,149,473,1/3/2024,Critical,Billing,Phone,341,Closed,false,true,2,false
+932,TKT-000932,72,2150,6/7/2024,High,Feature Request,Chat,262,Resolved,true,false,4,false
+933,TKT-000933,99,3804,7/12/2026,High,Technical Issue,Email,152,Closed,true,false,4,true
+934,TKT-000934,118,29,4/24/2024,High,Feature Request,Web Portal,294,Resolved,true,true,3,false
+935,TKT-000935,133,1198,1/17/2026,Critical,Billing,Chat,206,Closed,false,false,3,false
+936,TKT-000936,151,4443,6/16/2024,Medium,Technical Issue,Email,224,Open,false,true,3,false
+937,TKT-000937,156,4188,1/1/2025,Low,Account Access,Social Media,63,Resolved,true,false,4,false
+938,TKT-000938,104,4792,7/31/2026,Medium,Feature Request,Email,137,Open,true,false,3,false
+939,TKT-000939,2,774,5/23/2025,Medium,Billing,Email,111,Closed,true,false,4,false
+940,TKT-000940,100,1671,5/2/2025,Medium,General Inquiry,Email,102,Resolved,true,false,4,true
+941,TKT-000941,107,264,1/18/2026,Critical,Feature Request,Email,283,Resolved,false,true,3,false
+942,TKT-000942,135,2367,11/8/2025,Low,Billing,Phone,47,Open,true,false,3,false
+943,TKT-000943,25,4113,1/11/2026,Low,Feature Request,Phone,140,Resolved,true,false,4,false
+944,TKT-000944,38,4063,7/30/2025,Medium,Account Access,Phone,125,Resolved,true,false,4,true
+945,TKT-000945,191,1059,11/23/2024,High,Feature Request,Email,334,Resolved,true,true,3,false
+946,TKT-000946,18,3787,3/10/2026,Medium,Technical Issue,Email,246,Closed,true,false,4,false
+947,TKT-000947,188,3852,10/23/2024,Critical,General Inquiry,Web Portal,347,Pending Customer,false,true,3,false
+948,TKT-000948,154,4892,6/28/2025,Critical,Technical Issue,Email,334,Pending Customer,false,true,2,false
+949,TKT-000949,109,4810,11/10/2025,High,Account Access,Chat,236,Open,false,false,3,false
+950,TKT-000950,10,3142,11/28/2024,Critical,General Inquiry,Phone,470,Closed,false,true,3,false
+951,TKT-000951,4,3328,3/10/2026,Medium,Billing,Phone,231,Closed,true,false,5,true
+952,TKT-000952,115,4411,1/19/2024,Low,Bug Report,Chat,103,Open,true,false,5,true
+953,TKT-000953,93,3378,9/5/2024,Medium,Feature Request,Chat,131,Open,true,true,3,false
+954,TKT-000954,156,1912,8/28/2025,High,Bug Report,Chat,283,Closed,true,true,3,false
+955,TKT-000955,118,3836,5/16/2025,Medium,Account Access,Phone,218,Closed,true,false,4,false
+956,TKT-000956,120,1929,8/6/2025,Low,Technical Issue,Phone,136,Open,true,false,5,true
+957,TKT-000957,162,4891,3/20/2026,Medium,Billing,Email,259,Open,true,false,4,true
+958,TKT-000958,128,1392,8/2/2024,Medium,Billing,Web Portal,128,Resolved,true,false,4,true
+959,TKT-000959,77,4547,9/11/2025,Critical,Account Access,Email,494,Closed,true,false,4,true
+960,TKT-000960,139,181,12/16/2026,High,Feature Request,Phone,325,Resolved,false,false,4,true
+961,TKT-000961,11,672,10/18/2026,Medium,Billing,Chat,192,Open,true,false,4,false
+962,TKT-000962,84,3833,9/20/2026,Critical,Bug Report,Web Portal,360,Pending Customer,false,true,3,false
+963,TKT-000963,58,4121,7/10/2025,Medium,Feature Request,Email,177,Open,false,false,4,true
+964,TKT-000964,85,4203,2/11/2025,High,Billing,Email,236,Resolved,true,false,5,true
+965,TKT-000965,119,1880,8/30/2024,Medium,Account Access,Web Portal,223,Open,true,false,4,true
+966,TKT-000966,200,1799,4/28/2024,Medium,Account Access,Phone,190,Closed,true,false,4,true
+967,TKT-000967,110,3381,11/17/2024,High,Feature Request,Email,388,Resolved,false,false,3,false
+968,TKT-000968,110,1405,12/20/2026,Critical,Bug Report,Chat,489,Resolved,false,true,3,false
+969,TKT-000969,190,2322,6/16/2024,High,Technical Issue,Phone,341,Closed,false,false,4,true
+970,TKT-000970,44,892,8/23/2024,Medium,General Inquiry,Email,128,Resolved,true,false,4,false
+971,TKT-000971,22,2290,11/4/2025,Medium,General Inquiry,Email,184,Open,true,true,3,false
+972,TKT-000972,78,4181,5/16/2025,High,Account Access,Email,313,Resolved,false,false,3,false
+973,TKT-000973,81,943,9/4/2026,High,Billing,Chat,177,Pending Customer,true,false,4,false
+974,TKT-000974,151,19,6/12/2025,Medium,Technical Issue,Email,50,Closed,true,false,4,false
+975,TKT-000975,139,59,2/25/2024,Medium,Feature Request,Phone,100,Open,true,false,4,true
+976,TKT-000976,157,4468,8/20/2024,Medium,Technical Issue,Phone,206,Closed,true,true,4,true
+977,TKT-000977,191,2780,1/30/2025,Low,Bug Report,Phone,90,Closed,true,false,4,true
+978,TKT-000978,138,1539,9/27/2025,High,Technical Issue,Web Portal,122,Resolved,true,false,5,true
+979,TKT-000979,9,2288,12/15/2024,Medium,Billing,Chat,182,Closed,true,false,5,true
+980,TKT-000980,31,1071,8/13/2025,High,Technical Issue,Social Media,223,Open,true,false,4,true
+981,TKT-000981,135,4930,12/5/2024,Critical,Billing,Email,484,Open,false,true,3,false
+982,TKT-000982,90,187,4/26/2025,Low,Account Access,Social Media,33,Open,true,true,4,false
+983,TKT-000983,95,4741,8/13/2026,High,Feature Request,Social Media,332,Resolved,false,false,4,false
+984,TKT-000984,65,2322,9/21/2025,Critical,Technical Issue,Email,352,Resolved,false,false,3,false
+985,TKT-000985,114,2185,8/26/2025,High,General Inquiry,Email,329,Resolved,false,false,4,true
+986,TKT-000986,166,4214,6/5/2024,Medium,Feature Request,Chat,159,Open,false,true,3,true
+987,TKT-000987,177,2407,1/5/2024,Medium,Feature Request,Phone,92,Closed,true,false,4,false
+988,TKT-000988,121,4041,6/23/2024,Critical,General Inquiry,Phone,422,Closed,false,true,2,false
+989,TKT-000989,122,262,10/1/2025,High,General Inquiry,Phone,194,Resolved,true,true,3,false
+990,TKT-000990,119,4061,3/10/2025,Medium,General Inquiry,Web Portal,62,Closed,true,false,4,true
+991,TKT-000991,49,3638,8/29/2024,Critical,Technical Issue,Email,380,Closed,false,true,2,false
+992,TKT-000992,9,2788,6/16/2026,High,Billing,Email,141,Closed,true,false,5,true
+993,TKT-000993,152,495,7/27/2025,Low,Feature Request,Phone,122,Open,true,false,5,true
+994,TKT-000994,122,4623,1/25/2024,High,General Inquiry,Email,122,Closed,true,true,4,false
+995,TKT-000995,195,4579,9/17/2025,Medium,Account Access,Phone,247,Open,true,false,5,true
+996,TKT-000996,190,2073,10/26/2025,High,Feature Request,Email,200,Open,true,false,4,true
+997,TKT-000997,128,2006,2/3/2025,Medium,Technical Issue,Chat,249,Open,true,false,4,false
+998,TKT-000998,95,525,12/13/2024,Medium,Feature Request,Email,115,Open,true,false,5,true
+999,TKT-000999,42,4799,12/6/2025,Medium,Billing,Web Portal,128,Open,true,false,4,true
+1000,TKT-001000,163,4707,12/15/2025,Medium,Technical Issue,Phone,200,Open,true,false,5,true

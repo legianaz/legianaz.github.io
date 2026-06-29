@@ -1,0 +1,8 @@
+original,type,confidence,date,proposed_name,note
+doc1.pdf,Capital Call Notice,4,2024-03-15,2024-03-15_Capital_Call_Notice_Evergreen_Capital_Partners_III_Evergreen_GP_LLC.pdf,
+doc2.pdf,Capital Account Statement,4,2024-12-31,2024-12-31_Capital_Account_Statement_Evergreen_Capital_Partners_III_Evergreen_GP_LLC.pdf,
+doc3.pdf,Hedge Fund Statement,5,2025-01-31,2025-01-31_Hedge_Fund_Statement_Evergreen_Capital_Partners_III_Evergreen_GP_LLC.pdf,
+doc4.pdf,Distribution Notice,5,2024-06-10,2024-06-10_Distribution_Notice_Evergreen_Capital_Partners_III_Evergreen_GP_LLC.pdf,
+doc5.pdf,K-1,4,2024-12-31,2024-12-31_K-1_Evergreen_Capital_Partners_III_Evergreen_GP_LLC.pdf,date inferred from tax year (year-end)
+doc6.pdf,Capital Call Notice,3,2024-09-02,2024-09-02_Capital_Call_Notice_Evergreen_Capital_Partners_III_Evergreen_GP_LLC.pdf,
+doc7.pdf,Distribution Notice,3,2024-11-20,2024-11-20_Distribution_Notice_Evergreen_Capital_Partners_III_Evergreen_GP_LLC.pdf,
